@@ -1,0 +1,5642 @@
+{
+  "56dde1d966d3e219004dad8d": {
+    "question": "Who upon arriving gave the original viking settlers a common identity?",
+    "model_answer": "",
+    "correct_answers": [
+      "Rollo"
+    ]
+  },
+  "56dde27d9a695914005b9651": {
+    "question": "What was the Norman religion?",
+    "model_answer": "",
+    "correct_answers": [
+      "Catholicism"
+    ]
+  },
+  "56de0ffd4396321400ee258d": {
+    "question": "When did Herve serve as a Byzantine general?",
+    "model_answer": "",
+    "correct_answers": [
+      "1050s",
+      "in the 1050s"
+    ]
+  },
+  "56de0ffd4396321400ee258f": {
+    "question": "Who ruined Roussel de Bailleul's plans for an independent state?",
+    "model_answer": "",
+    "correct_answers": [
+      "Alexius Komnenos"
+    ]
+  },
+  "56de1563cffd8e1900b4b5c4": {
+    "question": "Where was Dyrrachium located?",
+    "model_answer": "",
+    "correct_answers": [
+      "the Adriatic",
+      "Adriatic"
+    ]
+  },
+  "56de15dbcffd8e1900b4b5c9": {
+    "question": "Who was Emma's brother?",
+    "model_answer": "",
+    "correct_answers": [
+      "Duke Richard II"
+    ]
+  },
+  "56de179dcffd8e1900b4b5db": {
+    "question": "What country did the Normans invade in 1169?",
+    "model_answer": "",
+    "correct_answers": [
+      "Ireland"
+    ]
+  },
+  "56de17f9cffd8e1900b4b5e0": {
+    "question": "Who was Margaret's brother?",
+    "model_answer": "",
+    "correct_answers": [
+      "Edgar",
+      "Edgar Atheling"
+    ]
+  },
+  "56de52614396321400ee27fd": {
+    "question": "Who patronized the monks in Italy? ",
+    "model_answer": "",
+    "correct_answers": [
+      "Robert Guiscard"
+    ]
+  },
+  "56e17e6ee3433e1400422f80": {
+    "question": "What is one example of an instance that the quantitative answer to the traveling salesman problem fails to answer?",
+    "model_answer": "",
+    "correct_answers": [
+      "round trip through all sites in Milan",
+      "asking for a round trip through all sites in Milan whose total length is at most 10 km",
+      "a round trip through all sites in Milan whose total length is at most 10 km"
+    ]
+  },
+  "56e1a564cd28a01900c67a4a": {
+    "question": "What term corresponds to the maximum measurement of time across all functions of n? ",
+    "model_answer": "",
+    "correct_answers": [
+      "worst-case time complexity",
+      "the worst-case time complexity"
+    ]
+  },
+  "56e1b754cd28a01900c67ac0": {
+    "question": "Decision tree is an example of what type of measure?",
+    "model_answer": "",
+    "correct_answers": [
+      "Complexity measures",
+      "complexity measures",
+      "complexity"
+    ]
+  },
+  "56e1b8f3e3433e14004230e7": {
+    "question": "Case complexity likelihoods provide variable probabilities of what general measure? ",
+    "model_answer": "",
+    "correct_answers": [
+      "complexity measure",
+      "complexity"
+    ]
+  },
+  "56e1b8f3e3433e14004230e8": {
+    "question": "What is one common example of a critical complexity measure?",
+    "model_answer": "",
+    "correct_answers": [
+      "time",
+      "time complexity"
+    ]
+  },
+  "56e1b8f3e3433e14004230e9": {
+    "question": "Case complexities provide three likelihoods of what differing variable that remains the same size? ",
+    "model_answer": "",
+    "correct_answers": [
+      "inputs"
+    ]
+  },
+  "56e1bc3ae3433e1400423106": {
+    "question": "Which bound of time is more difficult to establish?",
+    "model_answer": "",
+    "correct_answers": [
+      "lower bounds",
+      "lower"
+    ]
+  },
+  "56e1bd4acd28a01900c67afe": {
+    "question": "How would one write T(n) = 7n2 + 15n + 40 in big O notation? ",
+    "model_answer": "",
+    "correct_answers": [
+      "T(n) = O(n2)"
+    ]
+  },
+  "56e1c0f6cd28a01900c67b2c": {
+    "question": "What has complicated definitions that prevent classification into a framework?",
+    "model_answer": "",
+    "correct_answers": [
+      "complexity classes",
+      "some complexity classes"
+    ]
+  },
+  "56e1c3e1e3433e1400423148": {
+    "question": "What are two examples of measurements are bound within algorithms to establish complexity classes?",
+    "model_answer": "",
+    "correct_answers": [
+      "time or space"
+    ]
+  },
+  "56e1c3e1e3433e1400423149": {
+    "question": "What function is used by algorithms to define measurements like time or space?",
+    "model_answer": "",
+    "correct_answers": [
+      "bounding"
+    ]
+  },
+  "56e1c7e2cd28a01900c67b75": {
+    "question": "What is responsible for constraining P according to the time hierarchy theorem?",
+    "model_answer": "",
+    "correct_answers": [
+      "EXPTIME"
+    ]
+  },
+  "56e1c9bfe3433e1400423196": {
+    "question": "Polynomial time reductions are an example of what?",
+    "model_answer": "",
+    "correct_answers": [
+      "the bound on the complexity of reductions",
+      "types of reductions"
+    ]
+  },
+  "56e1cbe2cd28a01900c67bad": {
+    "question": "What equates to a squared integer according to polynomial time reduction?",
+    "model_answer": "",
+    "correct_answers": [
+      "multiplying two integers"
+    ]
+  },
+  "56e1cbe2cd28a01900c67bae": {
+    "question": "What measurement of time is used in polynomial time reduction?",
+    "model_answer": "",
+    "correct_answers": [
+      "polynomial time",
+      "polynomial"
+    ]
+  },
+  "56e1ce08e3433e14004231a5": {
+    "question": "What would create a conflict between a problem X and problem C within the context of reduction? ",
+    "model_answer": "",
+    "correct_answers": [
+      "if every problem in C can be reduced to X",
+      "problem in C is harder than X"
+    ]
+  },
+  "56e1dc62cd28a01900c67bcc": {
+    "question": "What complexity class is commonly characterized by unknown algorithms to enhance solvability?",
+    "model_answer": "",
+    "correct_answers": [
+      "NP"
+    ]
+  },
+  "56e1ded7cd28a01900c67bd5": {
+    "question": "What is the name for a problem that meets Ladner's assertion?",
+    "model_answer": "",
+    "correct_answers": [
+      "NP-intermediate problems",
+      "NP-intermediate"
+    ]
+  },
+  "56e1e9dfe3433e14004231fe": {
+    "question": "What finite hierarchy implies that the graph isomorphism problem is NP-complete? ",
+    "model_answer": "",
+    "correct_answers": [
+      "polynomial time hierarchy",
+      "polynomial time"
+    ]
+  },
+  "56e1ee4de3433e1400423211": {
+    "question": "What is an expression that can be used to illustrate the suspected inequality of complexity classes?",
+    "model_answer": "",
+    "correct_answers": [
+      "P ⊆ NP ⊆ PP ⊆ PSPACE"
+    ]
+  },
+  "56e1f10ee3433e1400423223": {
+    "question": "Though unkown, what are the most commonly ascribed attributes of L in relation to P",
+    "model_answer": "",
+    "correct_answers": [
+      "strictly contained in P or equal to P",
+      "contained in P or equal to P."
+    ]
+  },
+  "56e1f10ee3433e1400423224": {
+    "question": "What lies between L and P that prevents a definitive determination of the relationship between L and P?",
+    "model_answer": "",
+    "correct_answers": [
+      "complexity classes",
+      "many complexity classes"
+    ]
+  },
+  "56e1f10ee3433e1400423226": {
+    "question": "What is unknown about the complexity classes between L and P that further prevents determining the value relationship between L and P?",
+    "model_answer": "",
+    "correct_answers": [
+      "if they are distinct or equal classes"
+    ]
+  },
+  "56e200e4cd28a01900c67c14": {
+    "question": "What tactic did researchers employ to offset the former deficit of work surrounding the complexity of algorithmic problems?",
+    "model_answer": "",
+    "correct_answers": [
+      "foundations were laid out",
+      "numerous foundations were laid out",
+      "numerous foundations were laid out by various researchers"
+    ]
+  },
+  "56e2042ecd28a01900c67c1f": {
+    "question": "In what year did Raymond Sullivan publish a study of rudimentary sets?",
+    "model_answer": "",
+    "correct_answers": [
+      "1961"
+    ]
+  },
+  "56e20a27cd28a01900c67c25": {
+    "question": "In the effort of maintaining a level of abstraction, what choice is typically left independent?",
+    "model_answer": "",
+    "correct_answers": [
+      "encoding"
+    ]
+  },
+  "5705e3f252bb89140068966d": {
+    "question": "Which of the three heavily populated areas has the least number of inhabitants?",
+    "model_answer": "",
+    "correct_answers": [
+      "San Diego",
+      "the San Diego area"
+    ]
+  },
+  "5705e99452bb891400689688": {
+    "question": "Orange, San Diego, Riverside and San Bernardino make up four of the five counties. What is the name of the last county?",
+    "model_answer": "",
+    "correct_answers": [
+      "Los Angeles",
+      "Riverside"
+    ]
+  },
+  "5705e99452bb891400689689": {
+    "question": "What country are all the counties in?",
+    "model_answer": "",
+    "correct_answers": [
+      "United States",
+      "the United States",
+      "Los Angeles"
+    ]
+  },
+  "5705e99452bb89140068968b": {
+    "question": "What is the lowest ranking one of the counties could have in terms of most populous counties in the United States?",
+    "model_answer": "",
+    "correct_answers": [
+      "15",
+      "Riverside"
+    ]
+  },
+  "5705e99452bb89140068968c": {
+    "question": "What is the smallest geographical region discussed?",
+    "model_answer": "",
+    "correct_answers": [
+      "counties",
+      "Riverside"
+    ]
+  },
+  "5705f36452bb89140068971b": {
+    "question": "Which mountain range influenced the split of the regions?",
+    "model_answer": "",
+    "correct_answers": [
+      "Tehachapis",
+      "the Tehachapis"
+    ]
+  },
+  "5705fb7f52bb891400689752": {
+    "question": "Who considers Los Angeles County to be a separate metropolitan area?",
+    "model_answer": "",
+    "correct_answers": [
+      "United States Census Bureau",
+      "the United States Census Bureau"
+    ]
+  },
+  "5705fc3a52bb89140068976c": {
+    "question": "What is the low end of the temperature range in summer?",
+    "model_answer": "",
+    "correct_answers": [
+      "60's"
+    ]
+  },
+  "5705fd8475f01819005e7844": {
+    "question": "The mountain ranges tail off into what kind of geographical formation?",
+    "model_answer": "",
+    "correct_answers": [
+      "valleys",
+      "interior valleys"
+    ]
+  },
+  "570607f575f01819005e78b5": {
+    "question": "What is the population of the second largest city in California?",
+    "model_answer": "",
+    "correct_answers": [
+      "1.3 million",
+      "San Diego"
+    ]
+  },
+  "570607f575f01819005e78b8": {
+    "question": "Other than San Bernardino, which other developed southern Californian city is not in close proximity to the coast?",
+    "model_answer": "",
+    "correct_answers": [
+      "Riverside"
+    ]
+  },
+  "5706094b52bb8914006897de": {
+    "question": "What resource is the economy of southern California depedent on?",
+    "model_answer": "",
+    "correct_answers": [
+      "petroleum"
+    ]
+  },
+  "57060a1175f01819005e78d4": {
+    "question": "Which type of livestock was the argricultural region known for?",
+    "model_answer": "",
+    "correct_answers": [
+      "cattle"
+    ]
+  },
+  "57060a1175f01819005e78d6": {
+    "question": "What industry has managed to survive major military spending cutbacks?",
+    "model_answer": "",
+    "correct_answers": [
+      "aerospace"
+    ]
+  },
+  "57060a6e52bb8914006897fa": {
+    "question": "What is the only district in the CBD to not have \"downtown\" in it's name?",
+    "model_answer": "",
+    "correct_answers": [
+      "South Coast Metro"
+    ]
+  },
+  "57060df252bb891400689820": {
+    "question": "The Sand Bernardino - Riverside area maintains what kind of district?",
+    "model_answer": "",
+    "correct_answers": [
+      "business",
+      "business districts"
+    ]
+  },
+  "57060eaf75f01819005e7913": {
+    "question": "What other business district does Orange County envelop outside of Downtown Santa Ana and Newport Center?",
+    "model_answer": "",
+    "correct_answers": [
+      "South Coast Metro",
+      "the South Coast Metro"
+    ]
+  },
+  "57094a79efce8f15003a7dc5": {
+    "question": "How many of the six total packages available to broadcasters was Setanta awarded?",
+    "model_answer": "",
+    "correct_answers": [
+      "two"
+    ]
+  },
+  "57094b4f9928a814004714f7": {
+    "question": "Who did BSkyB team up with because it was not part of the consortium?",
+    "model_answer": "",
+    "correct_answers": [
+      "Freeview",
+      "ITV Digital"
+    ]
+  },
+  "57094ca7efce8f15003a7dda": {
+    "question": "What replaced the Sky+Box?",
+    "model_answer": "",
+    "correct_answers": [
+      "Sky+HD Box"
+    ]
+  },
+  "57094d489928a8140047150b": {
+    "question": "Who is VideoGuard owned by?",
+    "model_answer": "",
+    "correct_answers": [
+      "NDS"
+    ]
+  },
+  "570953a7efce8f15003a7dff": {
+    "question": "What channels were removed from the network in March of 2007?",
+    "model_answer": "",
+    "correct_answers": [
+      "basic channels",
+      "the basic channels"
+    ]
+  },
+  "570953a7efce8f15003a7e01": {
+    "question": "What additional srevice did BSkyB offer besides HD channels that they claimed offered \"substantially more value\"?",
+    "model_answer": "",
+    "correct_answers": [
+      "Video On Demand",
+      "Video On Demand content",
+      "HD channels and Video On Demand"
+    ]
+  },
+  "570960cf200fba1400367f03": {
+    "question": "What did Microsoft announce that it would rename Sky Drive to?",
+    "model_answer": "",
+    "correct_answers": [
+      "OneDrive"
+    ]
+  },
+  "570960cf200fba1400367f04": {
+    "question": "What did Microsoft announce that it would rename Sky Drive Pro to?",
+    "model_answer": "",
+    "correct_answers": [
+      "OneDrive for Business"
+    ]
+  },
+  "570966e0200fba1400367f52": {
+    "question": "What is the proprietary system that Sky+HD uses?",
+    "model_answer": "",
+    "correct_answers": [
+      "OpenTV"
+    ]
+  },
+  "57096b66200fba1400367fa9": {
+    "question": "What platform was Sentanta Sports planning on launching on?",
+    "model_answer": "",
+    "correct_answers": [
+      "digital terrestrial"
+    ]
+  },
+  "57096c95200fba1400367fbb": {
+    "question": "What are free-to-air encrypted broadcasts known as?",
+    "model_answer": "",
+    "correct_answers": [
+      "free-to-view",
+      "free-to-air"
+    ]
+  },
+  "57097051ed30961900e84136": {
+    "question": "Within the 30 days how many digiboxes had been sold?",
+    "model_answer": "",
+    "correct_answers": [
+      "100,000",
+      "over 100,000"
+    ]
+  },
+  "57097141200fba1400367ff9": {
+    "question": "When was virgin media rebranded from NTL Telewest?",
+    "model_answer": "",
+    "correct_answers": [
+      "2007"
+    ]
+  },
+  "57097141200fba1400367ffa": {
+    "question": "what was NTL Telewest re-branded to in 2007?",
+    "model_answer": "",
+    "correct_answers": [
+      "Virgin Media"
+    ]
+  },
+  "57097141200fba1400367ffb": {
+    "question": "What did Virgin Media concentrate on instead of offering linear channels?",
+    "model_answer": "",
+    "correct_answers": [
+      "Video On Demand",
+      "Video On Demand service",
+      "(HDTV)"
+    ]
+  },
+  "57097c8fed30961900e841f6": {
+    "question": "What did the benefits agency think sports channels on a TV bill meant?",
+    "model_answer": "",
+    "correct_answers": [
+      "a man's presence",
+      "mother is wrongly claiming to be living alone",
+      "betray a man's presence in the household"
+    ]
+  },
+  "57097d63ed30961900e841ff": {
+    "question": "What company agreed to terminate high court proceedings with Virgin Media?",
+    "model_answer": "",
+    "correct_answers": [
+      "BSkyB"
+    ]
+  },
+  "57097d63ed30961900e84200": {
+    "question": "What were high court proceedings being held about?",
+    "model_answer": "",
+    "correct_answers": [
+      "basic channels",
+      "the carriage of their respective basic channels",
+      "carriage of their respective basic channels"
+    ]
+  },
+  "570d3468b3d812140066d543": {
+    "question": "What type of manufacturing plant is Victoria soon losing?",
+    "model_answer": "",
+    "correct_answers": [
+      "major car brands",
+      "car"
+    ]
+  },
+  "570d3468b3d812140066d545": {
+    "question": "When did Holden announce that it will close its Victoria plant?",
+    "model_answer": "",
+    "correct_answers": [
+      "May 2013",
+      "in May 2013",
+      "2013"
+    ]
+  },
+  "570d3468b3d812140066d547": {
+    "question": "What brand of car is manufactured in Broadmeadows?",
+    "model_answer": "",
+    "correct_answers": [
+      "Ford"
+    ]
+  },
+  "570d44abb3d812140066d600": {
+    "question": "How many full time teachers does Victoria have?",
+    "model_answer": "",
+    "correct_answers": [
+      "63,519"
+    ]
+  },
+  "57106d2fb654c5140001f8f2": {
+    "question": "What proclamation officially ended limited Huguenot autonomy?",
+    "model_answer": "",
+    "correct_answers": [
+      "Edict of Alès"
+    ]
+  },
+  "57107c24a58dae1900cd69eb": {
+    "question": "With what European country did the Huguenots feel kinship for emigration to?",
+    "model_answer": "",
+    "correct_answers": [
+      "Dutch Republic"
+    ]
+  },
+  "57107c24a58dae1900cd69ec": {
+    "question": "When did France and the Dutch fight in the 17th century?",
+    "model_answer": "",
+    "correct_answers": [
+      "1672"
+    ]
+  },
+  "57107d73b654c5140001f91f": {
+    "question": "Which French kind issued this declaration?",
+    "model_answer": "",
+    "correct_answers": [
+      "Louis XIV"
+    ]
+  },
+  "57107d73b654c5140001f920": {
+    "question": "How many Huguenots fled France by the 1700s?",
+    "model_answer": "",
+    "correct_answers": [
+      "500,000",
+      "roughly 500,000"
+    ]
+  },
+  "57107e6ca58dae1900cd69f3": {
+    "question": "What event was the worst example of Huguenot persecution?",
+    "model_answer": "",
+    "correct_answers": [
+      "St. Bartholomew's Day massacre"
+    ]
+  },
+  "57107e6ca58dae1900cd69f6": {
+    "question": "What was a non-religious reason for the massacre?",
+    "model_answer": "",
+    "correct_answers": [
+      "some of the Huguenots were nobles trying to establish separate centers of power in southern France",
+      "political reasons"
+    ]
+  },
+  "57108198b654c5140001f937": {
+    "question": "How many protestants live in France today?",
+    "model_answer": "",
+    "correct_answers": [
+      "one million",
+      "Approximately one million"
+    ]
+  },
+  "57108198b654c5140001f938": {
+    "question": "What percentage of France's population is protestant today?",
+    "model_answer": "",
+    "correct_answers": [
+      "2%"
+    ]
+  },
+  "57108198b654c5140001f939": {
+    "question": "What northern province in France has a large protestant population?",
+    "model_answer": "",
+    "correct_answers": [
+      "Alsace"
+    ]
+  },
+  "57108198b654c5140001f93b": {
+    "question": "What country currently has a group who call themselves Huguenots?",
+    "model_answer": "",
+    "correct_answers": [
+      "Australia"
+    ]
+  },
+  "57108d69b654c5140001f985": {
+    "question": "What was the population of the Dutch Republic before this emigration?",
+    "model_answer": "",
+    "correct_answers": [
+      "ca. 2 million",
+      "2 million"
+    ]
+  },
+  "571090abb654c5140001f995": {
+    "question": "Where did Huguenots and Walloons settle in England?",
+    "model_answer": "",
+    "correct_answers": [
+      "Canterbury"
+    ]
+  },
+  "571090abb654c5140001f997": {
+    "question": "What social construct did Huguenot refugees in Canterbury practice?",
+    "model_answer": "",
+    "correct_answers": [
+      "economic separation",
+      "worked as weavers"
+    ]
+  },
+  "571090abb654c5140001f999": {
+    "question": "What is located on the site of The Weaving House currently?",
+    "model_answer": "",
+    "correct_answers": [
+      "a restaurant",
+      "restaurant"
+    ]
+  },
+  "57109180a58dae1900cd6a40": {
+    "question": "What Irish cities had Huguenot mayors in the 1600s and 1700s?",
+    "model_answer": "",
+    "correct_answers": [
+      "Dublin, Cork, Youghal and Waterford"
+    ]
+  },
+  "57109275b654c5140001f9a0": {
+    "question": "What was the name of France's primary colony in the New World?",
+    "model_answer": "",
+    "correct_answers": [
+      "New France"
+    ]
+  },
+  "571097baa58dae1900cd6a98": {
+    "question": "What Revolutionary War midnight rider was a Huguenot descendant?",
+    "model_answer": "",
+    "correct_answers": [
+      "Paul Revere"
+    ]
+  },
+  "571098f8a58dae1900cd6ab4": {
+    "question": "What reference is there to Huguenot lacemakers in the 19th century?",
+    "model_answer": "",
+    "correct_answers": [
+      "twenty-five widows who settled in Dover"
+    ]
+  },
+  "571099b2b654c5140001f9b7": {
+    "question": "What other Northern European cities had Huguenot congregations?",
+    "model_answer": "",
+    "correct_answers": [
+      "Fredericia (Denmark), Berlin, Stockholm, Hamburg, Frankfurt, Helsinki, and Emden"
+    ]
+  },
+  "5710e8c8a58dae1900cd6b26": {
+    "question": "Which central European country had a Calvinist ruler?",
+    "model_answer": "",
+    "correct_answers": [
+      "Prussia",
+      "Great Elector Frederick William"
+    ]
+  },
+  "5710e9f8a58dae1900cd6b30": {
+    "question": "There was a 16th century Huguenot settlement near what modern day Florida city?",
+    "model_answer": "",
+    "correct_answers": [
+      "Jacksonville"
+    ]
+  },
+  "5710e9f8a58dae1900cd6b33": {
+    "question": "Which army attacked and destroyed this colony?",
+    "model_answer": "",
+    "correct_answers": [
+      "Spanish"
+    ]
+  },
+  "5710e9f8a58dae1900cd6b34": {
+    "question": "When was the colony destroyed?",
+    "model_answer": "",
+    "correct_answers": [
+      "1565"
+    ]
+  },
+  "5711119cb654c5140001fae3": {
+    "question": "What two member nations of the Holy Roman Empire received Huguenot refugees?",
+    "model_answer": "",
+    "correct_answers": [
+      "Electorate of Brandenburg and Electorate of the Palatinate",
+      "the Electorate of Brandenburg and Electorate of the Palatinate"
+    ]
+  },
+  "57111380a58dae1900cd6bd6": {
+    "question": "Who was one French pro-reform Roman Catholic of the 15th century? ",
+    "model_answer": "",
+    "correct_answers": [
+      "Jacques Lefevre"
+    ]
+  },
+  "57111428b654c5140001fb01": {
+    "question": "How many Huguenots were killed in Toulouse?",
+    "model_answer": "",
+    "correct_answers": [
+      "Nearly 3,000"
+    ]
+  },
+  "571117d4a58dae1900cd6c0a": {
+    "question": "Who was a prominent Huguenot in Holland?",
+    "model_answer": "",
+    "correct_answers": [
+      "Pierre Bayle"
+    ]
+  },
+  "57111ab8a58dae1900cd6c3c": {
+    "question": "What protestant religions made Northern European counties safe for Huguenot immigration?",
+    "model_answer": "",
+    "correct_answers": [
+      "Lutheran and Reformed"
+    ]
+  },
+  "57111ab8a58dae1900cd6c3d": {
+    "question": "Which areas of Northern Europe practiced those religions?",
+    "model_answer": "",
+    "correct_answers": [
+      "Germany and Scandinavia"
+    ]
+  },
+  "57111ab8a58dae1900cd6c40": {
+    "question": "What military impact did Huguenot immigration have on Frederick's army?",
+    "model_answer": "",
+    "correct_answers": [
+      "Huguenots furnished two new regiments",
+      "two new regiments",
+      "furnished two new regiments of his army"
+    ]
+  },
+  "571126dfa58dae1900cd6cb5": {
+    "question": "What was invented by Savery?",
+    "model_answer": "",
+    "correct_answers": [
+      "steam pump"
+    ]
+  },
+  "571127a5a58dae1900cd6cc7": {
+    "question": "In what constituent country of the United Kingdom is Merthyr Tydfil located?",
+    "model_answer": "",
+    "correct_answers": [
+      "Wales",
+      "south Wales"
+    ]
+  },
+  "57113639a58dae1900cd6d19": {
+    "question": "What are engines using four expansion stages known as?",
+    "model_answer": "",
+    "correct_answers": [
+      "quadruple expansion engines",
+      "quadruple"
+    ]
+  },
+  "57114e8d50c2381900b54a5d": {
+    "question": "What is  565 °C the creep limit of?",
+    "model_answer": "",
+    "correct_answers": [
+      "stainless steel"
+    ]
+  },
+  "5711541350c2381900b54a71": {
+    "question": "What is decreased by staging expansion across multiple cylinders?",
+    "model_answer": "",
+    "correct_answers": [
+      "torque variability"
+    ]
+  },
+  "571154c72419e31400955588": {
+    "question": "What marine engines were less efficient than steam turbines?",
+    "model_answer": "",
+    "correct_answers": [
+      "reciprocating steam engines",
+      "reciprocating"
+    ]
+  },
+  "571154c72419e3140095558a": {
+    "question": "What engines were used throughout most of the 20th century to propel ships?",
+    "model_answer": "",
+    "correct_answers": [
+      "steam turbines",
+      "steam turbines with reduction gearing"
+    ]
+  },
+  "57115dbe2419e314009555a9": {
+    "question": "What was the centrifugal governor incapable of doing?",
+    "model_answer": "",
+    "correct_answers": [
+      "hold a set speed"
+    ]
+  },
+  "5711628a2419e314009555dd": {
+    "question": "What was the ultimate development of the horizontal engine?",
+    "model_answer": "",
+    "correct_answers": [
+      "Corliss steam engine",
+      "Corliss",
+      "the Corliss steam engine"
+    ]
+  },
+  "571a484210f8ca1400304fbe": {
+    "question": "What is the second most abundant element?",
+    "model_answer": "",
+    "correct_answers": [
+      "helium"
+    ]
+  },
+  "571ce7f25efbb31900334e3e": {
+    "question": "In what compound is oxygen found in small amounts in the atmosphere?",
+    "model_answer": "",
+    "correct_answers": [
+      "carbon dioxide"
+    ]
+  },
+  "571ce7f25efbb31900334e3f": {
+    "question": "What geologic feature is composed of oxygen oxides?",
+    "model_answer": "",
+    "correct_answers": [
+      "Earth's crustal rock",
+      "crustal rock",
+      "Earth's crust",
+      "The Earth's crust"
+    ]
+  },
+  "571c7d55dd7acb1400e4c0c7": {
+    "question": "What element did Gay-Lussac and von Humboldt discover was present in twice the amount of oxygen in water?",
+    "model_answer": "",
+    "correct_answers": [
+      "hydrogen"
+    ]
+  },
+  "571c7d55dd7acb1400e4c0c8": {
+    "question": "What theory was arrived at in 1811 that presented the assumption of diatomic molecules?",
+    "model_answer": "",
+    "correct_answers": [
+      "Avogadro's law",
+      "the correct interpretation of water's composition"
+    ]
+  },
+  "571c8198dd7acb1400e4c0cf": {
+    "question": "What type of combustible materials were considered to have little philogiston?",
+    "model_answer": "",
+    "correct_answers": [
+      "non-combustible",
+      "non-combustible substances that corrode",
+      "wood"
+    ]
+  },
+  "571c83f3dd7acb1400e4c0d8": {
+    "question": "How is dioxygen most simply described?",
+    "model_answer": "",
+    "correct_answers": [
+      "covalent double bond",
+      "a covalent double bond",
+      "a covalent double bond that results from the filling of molecular orbitals formed from the atomic orbitals of the individual oxygen atoms"
+    ]
+  },
+  "571c879bdd7acb1400e4c0ec": {
+    "question": "What is the term for the arrangement of two unpaired electrons in dioxygen?",
+    "model_answer": "",
+    "correct_answers": [
+      "spin triplet state",
+      "a spin triplet state"
+    ]
+  },
+  "571c879bdd7acb1400e4c0ee": {
+    "question": "What causes triplet oxygen to react slowly?",
+    "model_answer": "",
+    "correct_answers": [
+      "unpaired electrons",
+      "its unpaired electrons",
+      "Because of its unpaired electrons"
+    ]
+  },
+  "571c879bdd7acb1400e4c0f0": {
+    "question": "What are the weakly filled higher orbitals of oxygen?",
+    "model_answer": "",
+    "correct_answers": [
+      "antibonding"
+    ]
+  },
+  "571c8eb9dd7acb1400e4c0f8": {
+    "question": "What did Lavoisier perceive the air had lost as much as the tin had gained",
+    "model_answer": "",
+    "correct_answers": [
+      "weight"
+    ]
+  },
+  "571c96095efbb31900334dbf": {
+    "question": "In what type of water does oxygen dissolve more slowly?",
+    "model_answer": "",
+    "correct_answers": [
+      "seawater",
+      "sea water"
+    ]
+  },
+  "571c96095efbb31900334dc0": {
+    "question": "How much more oxygen dissolves at 0 degrees C than at 20 degrees C?",
+    "model_answer": "",
+    "correct_answers": [
+      "twice",
+      "50% more",
+      "about twice as much",
+      "twice as much"
+    ]
+  },
+  "571c97e2dd7acb1400e4c11e": {
+    "question": "Where does oxygen rank by mass in the planet's biosphere?",
+    "model_answer": "",
+    "correct_answers": [
+      "most abundant",
+      "most"
+    ]
+  },
+  "571c97e2dd7acb1400e4c121": {
+    "question": "Where  by mass is oxygen a major part?",
+    "model_answer": "",
+    "correct_answers": [
+      "world's oceans",
+      "the world's oceans",
+      "in the Earth's biosphere, air, sea and land",
+      "oceans"
+    ]
+  },
+  "571cac5d5efbb31900334dd4": {
+    "question": "Before the formation of which planet, did Sol lose oxygen 16?",
+    "model_answer": "",
+    "correct_answers": [
+      "Earth",
+      "the Earth"
+    ]
+  },
+  "571cbe35dd7acb1400e4c140": {
+    "question": "What style of sensing do scientist like to use to measure global radiance?",
+    "model_answer": "",
+    "correct_answers": [
+      "remote sensing",
+      "remote"
+    ]
+  },
+  "571cc3dedd7acb1400e4c146": {
+    "question": "What magnetic character do triplet O2 have?",
+    "model_answer": "",
+    "correct_answers": [
+      "paramagnetic"
+    ]
+  },
+  "571cc3dedd7acb1400e4c149": {
+    "question": "What kind of field is necessary to produce a magnet effect in oxygen molecules?",
+    "model_answer": "",
+    "correct_answers": [
+      "magnetic field",
+      "magnetic"
+    ]
+  },
+  "571cc6f85efbb31900334de5": {
+    "question": "What is the clarity of liquid oxygen?",
+    "model_answer": "",
+    "correct_answers": [
+      "clear",
+      "clear substances with a light sky-blue color"
+    ]
+  },
+  "571ccd9b5efbb31900334df9": {
+    "question": "What percentage of oxygen will a zeolite sieve produce?",
+    "model_answer": "",
+    "correct_answers": [
+      "90% to 93%"
+    ]
+  },
+  "571ccd9b5efbb31900334dfb": {
+    "question": "What type of technology is the non organic separating of gases?",
+    "model_answer": "",
+    "correct_answers": [
+      "non-cryogenic"
+    ]
+  },
+  "571ccd9b5efbb31900334dfc": {
+    "question": "How much is the sieve method of gas production used?",
+    "model_answer": "",
+    "correct_answers": [
+      "major method",
+      "increasingly"
+    ]
+  },
+  "571cd11add7acb1400e4c16e": {
+    "question": "As a euphoric how is oxygen used in bars?",
+    "model_answer": "",
+    "correct_answers": [
+      "recreational"
+    ]
+  },
+  "571cd11add7acb1400e4c16f": {
+    "question": "What is the effect on humans of oxygen?",
+    "model_answer": "",
+    "correct_answers": [
+      "mild euphoric",
+      "a supposed mild euphoric",
+      "euphoric"
+    ]
+  },
+  "571cd3b55efbb31900334e03": {
+    "question": "What device is used to treat various conditions such as carbon monoxide poisoning?",
+    "model_answer": "",
+    "correct_answers": [
+      "Hyperbaric (high-pressure) medicine",
+      "special oxygen chambers",
+      "oxygen chambers"
+    ]
+  },
+  "571cd5b1dd7acb1400e4c17b": {
+    "question": "What medical treatment is used to benefit patients with hearth and lung disorders?",
+    "model_answer": "",
+    "correct_answers": [
+      "Oxygen therapy"
+    ]
+  },
+  "571cd5b1dd7acb1400e4c17c": {
+    "question": "What does  oxygen therapy promote the body to take up?",
+    "model_answer": "",
+    "correct_answers": [
+      "gaseous oxygen.",
+      "gaseous oxygen",
+      "oxygen"
+    ]
+  },
+  "571cd703dd7acb1400e4c183": {
+    "question": "What is usual form of oxygen bound compounds?",
+    "model_answer": "",
+    "correct_answers": [
+      "oxides"
+    ]
+  },
+  "571cda1bdd7acb1400e4c197": {
+    "question": "In what state is oxygen shipped in bulk?",
+    "model_answer": "",
+    "correct_answers": [
+      "liquid",
+      "as a liquid",
+      "as a liquid in specially insulated tankers"
+    ]
+  },
+  "571cda1bdd7acb1400e4c199": {
+    "question": "In what form is oxygen transported in smaller containers?",
+    "model_answer": "",
+    "correct_answers": [
+      "compressed gas",
+      "compressed gas;"
+    ]
+  },
+  "571ce3745efbb31900334e23": {
+    "question": "What is the most feared condition that divers want to avoid?",
+    "model_answer": "",
+    "correct_answers": [
+      "Acute oxygen toxicity",
+      "seizures"
+    ]
+  },
+  "571ce5055efbb31900334e2e": {
+    "question": "How much damage does breathing oxygen in space conditions cause?",
+    "model_answer": "",
+    "correct_answers": [
+      "no damage",
+      "no"
+    ]
+  },
+  "571ce6655efbb31900334e35": {
+    "question": "At what point does oxygen toxicity begin to happen?",
+    "model_answer": "",
+    "correct_answers": [
+      "50 kilopascals",
+      "at partial pressures more than 50 kilopascals",
+      "more than 50 kilopascals"
+    ]
+  },
+  "571ce6655efbb31900334e38": {
+    "question": "What percentage of oxygen is usually supplied by a medical mask?",
+    "model_answer": "",
+    "correct_answers": [
+      "30%–50%"
+    ]
+  },
+  "5725b5a689a1e219009abd29": {
+    "question": "How did the Nixon administration negotiate with the uncooperative countries?",
+    "model_answer": "",
+    "correct_answers": [
+      "They arranged for Israel to pull back from the Sinai Peninsula and the Golan Heights.",
+      "multilateral",
+      "They arranged for Israel to pull back from the Sinai Peninsula and the Golan Heights",
+      "multilateral negotiations"
+    ]
+  },
+  "5725b76389a1e219009abd4c": {
+    "question": "Why was there a depreciation of the industrialized nations dollars?",
+    "model_answer": "",
+    "correct_answers": [
+      "industrialized nations increased their reserves",
+      "industrialized nations increased their reserves (by expanding their money supplies) in amounts far greater than before",
+      "the industrialized nations increased their reserves"
+    ]
+  },
+  "5725b76389a1e219009abd4d": {
+    "question": "When did oil start getting priced in the terms of gold?",
+    "model_answer": "",
+    "correct_answers": [
+      "In September 1971",
+      "September 1971"
+    ]
+  },
+  "5725b76389a1e219009abd4e": {
+    "question": "Why did oil start getting priced in terms of gold?",
+    "model_answer": "",
+    "correct_answers": [
+      "oil was priced in dollars, oil producers' real income decreased",
+      "Because oil was priced in dollars, oil producers' real income decreased.",
+      "Because oil was priced in dollars, oil producers' real income decreased"
+    ]
+  },
+  "5725b92e38643c19005acbd4": {
+    "question": "When did OPEC start to readjust oil prices?",
+    "model_answer": "",
+    "correct_answers": [
+      "After 1971",
+      "1973–1974",
+      "1971"
+    ]
+  },
+  "5725b92e38643c19005acbd5": {
+    "question": "When did oil finally returned to its Bretton Woods levels?",
+    "model_answer": "",
+    "correct_answers": [
+      "1973–1974",
+      "1974"
+    ]
+  },
+  "5725bcb6271a42140099d0ed": {
+    "question": "Why did the oil ministers agree to a cut in oil production?",
+    "model_answer": "",
+    "correct_answers": [
+      "until their economic and political objectives were met",
+      "In response to American aid to Israel",
+      "OPEC raised the posted price of oil"
+    ]
+  },
+  "57261f9f271a42140099d4ab": {
+    "question": "Scholars stated that there was already an existing settlement between 2 parties prior to which date?",
+    "model_answer": "",
+    "correct_answers": [
+      "1973"
+    ]
+  },
+  "5726487b5951b619008f6ee1": {
+    "question": "Who wanted Israel to withdraw from its border?",
+    "model_answer": "",
+    "correct_answers": [
+      "Ted Heath"
+    ]
+  },
+  "572649d8f1498d1400e8db36": {
+    "question": "Which country is not badly hit by the embargo?",
+    "model_answer": "",
+    "correct_answers": [
+      "UK",
+      "the UK"
+    ]
+  },
+  "57264d9edd62a815002e80ff": {
+    "question": "When was he elected by Nixon?",
+    "model_answer": "",
+    "correct_answers": [
+      "In 1973",
+      "1973"
+    ]
+  },
+  "57264d9edd62a815002e8101": {
+    "question": "According to the AAA, what is the percentage of the gas stations that ran out of gasoline?",
+    "model_answer": "",
+    "correct_answers": [
+      "last week of February 1974,",
+      "20%",
+      "20"
+    ]
+  },
+  "57264efddd62a815002e8136": {
+    "question": "Which president ended the Emergency Energy Conservation Act?",
+    "model_answer": "",
+    "correct_answers": [
+      "Bill Clinton"
+    ]
+  },
+  "572650325951b619008f6fab": {
+    "question": "Who backed policies that have solutions that sound good but have poor prospects?",
+    "model_answer": "",
+    "correct_answers": [
+      "congresses and presidents"
+    ]
+  },
+  "57265526708984140094c2bd": {
+    "question": "Which country's invasion show the insecurity of the Middle East?",
+    "model_answer": "",
+    "correct_answers": [
+      "USSR's invasion",
+      "Afghanistan",
+      "USSR's",
+      "USSR"
+    ]
+  },
+  "57265526708984140094c2bf": {
+    "question": "Which country's arms purchase from the US became 5 times more than Israel?",
+    "model_answer": "",
+    "correct_answers": [
+      "Saudi Arabia"
+    ]
+  },
+  "5726581fdd62a815002e823a": {
+    "question": "Which sized cars were the least demanded cars in the crisis?",
+    "model_answer": "",
+    "correct_answers": [
+      "large cars",
+      "large"
+    ]
+  },
+  "572659535951b619008f703f": {
+    "question": "When did Honda, Toyota and Nissan open US assembly plants?",
+    "model_answer": "",
+    "correct_answers": [
+      "A decade after the 1973",
+      "1981",
+      "A decade after the 1973 oil crisis"
+    ]
+  },
+  "57265ceddd62a815002e82ba": {
+    "question": "Which car shows the DOT's revision of categories?",
+    "model_answer": "",
+    "correct_answers": [
+      "Mustang I",
+      "the 1974 Mustang I",
+      "1974 Mustang I"
+    ]
+  },
+  "5725b7f389a1e219009abd5f": {
+    "question": "What are the secondary sources of primary law?",
+    "model_answer": "",
+    "correct_answers": [
+      "regulations and directives",
+      "regulations and directives which are based on the Treaties"
+    ]
+  },
+  "5725ca4389a1e219009abeb5": {
+    "question": "Are there any regions where the Treaty of European Union excludes from jurisdiction?",
+    "model_answer": "",
+    "correct_answers": [
+      "the Faroe Islands"
+    ]
+  },
+  "5725cc38ec44d21400f3d5be": {
+    "question": "In 1972, did Norway end up joining the European Union?",
+    "model_answer": "",
+    "correct_answers": [
+      "in 1972 (though Norway did not end up joining)",
+      "not"
+    ]
+  },
+  "57264a8cdd62a815002e808d": {
+    "question": "Who is the sole governing authority capable of initiating legislative proposals?",
+    "model_answer": "",
+    "correct_answers": [
+      "the Commission",
+      "The European Commission"
+    ]
+  },
+  "57264e455951b619008f6f68": {
+    "question": "Who appoints the board of the European Central Bank?",
+    "model_answer": "",
+    "correct_answers": [
+      "European Council",
+      "the European Council"
+    ]
+  },
+  "57269424dd62a815002e8a1e": {
+    "question": "Which entity is the secondary legislative body?",
+    "model_answer": "",
+    "correct_answers": [
+      "the Council"
+    ]
+  },
+  "57269424dd62a815002e8a21": {
+    "question": "What is defined as the majority vote?",
+    "model_answer": "",
+    "correct_answers": [
+      "at least 55 per cent of the Council members (not votes) representing 65 per cent of the population of the EU",
+      "74 per cent, or 260 of the 352 votes"
+    ]
+  },
+  "57265e455951b619008f70bc": {
+    "question": "What was the reason the Italian Constitutional court gave that resulted in Mr. Costa losing his his claim against ENEL?",
+    "model_answer": "",
+    "correct_answers": [
+      "nationalisation law was from 1962, and the treaty was in force from 1958",
+      "because the nationalisation law was from 1962, and the treaty was in force from 1958, Costa had no claim"
+    ]
+  },
+  "5726975c708984140094cb21": {
+    "question": "Which court argued that the Treaty of Rome did not prevent energy nationalism?",
+    "model_answer": "",
+    "correct_answers": [
+      "the Court of Justice",
+      "The Italian Constitutional Court"
+    ]
+  },
+  "572699db5951b619008f779c": {
+    "question": "In what cases can the EU not override German law?",
+    "model_answer": "",
+    "correct_answers": [
+      "if the EU does not comply with its basic constitutional rights and principles"
+    ]
+  },
+  "57269e3bf1498d1400e8e517": {
+    "question": "What happens secondly if a Directive's deadline is not met?",
+    "model_answer": "",
+    "correct_answers": [
+      "a citizen or company can invoke a Directive, not just in a dispute with a public authority, but in a dispute with another citizen or company",
+      "a citizen may rely on the Directive in such an action (so called \"vertical\" direct effect)",
+      "a citizen may rely on the Directive in such an action"
+    ]
+  },
+  "57269e3bf1498d1400e8e519": {
+    "question": "Which company did Mrs Foster work for?",
+    "model_answer": "",
+    "correct_answers": [
+      "British Gas plc"
+    ]
+  },
+  "5726a299dd62a815002e8b9e": {
+    "question": "How many original treaties establishing the EU protected fundamental rights?",
+    "model_answer": "",
+    "correct_answers": [
+      "None"
+    ]
+  },
+  "5726b929f1498d1400e8e8ec": {
+    "question": " In the 2009 Commission v Italy, case, the Court of Justice held that an Italian low prohibiting what infringed article 34?",
+    "model_answer": "",
+    "correct_answers": [
+      "motorcycles or mopeds pulling trailers"
+    ]
+  },
+  "5726c19add62a815002e8f8c": {
+    "question": "When did the Court of Justice rule that the Commission could only propose that there must be some criminal sanctions?",
+    "model_answer": "",
+    "correct_answers": [
+      "October 2007",
+      "2007"
+    ]
+  },
+  "5726c5a9f1498d1400e8eac6": {
+    "question": "How much capital did Danish law require to start a company?",
+    "model_answer": "",
+    "correct_answers": [
+      "200,000 Danish krone"
+    ]
+  },
+  "5725be0f271a42140099d11a": {
+    "question": "When did it retract to a inland formation?",
+    "model_answer": "",
+    "correct_answers": [
+      "It expanded again during the Middle Miocene, then retracted to a mostly inland formation at the last glacial maximum.",
+      "Middle Miocene",
+      "at the last glacial maximum"
+    ]
+  },
+  "57283adcff5b5019007d9f94": {
+    "question": " What may have caused rainforests to grow across South America?",
+    "model_answer": "",
+    "correct_answers": [
+      "the extinction of the dinosaurs and the wetter climate",
+      "extinction of the dinosaurs and the wetter climate",
+      "extinction of the dinosaurs"
+    ]
+  },
+  "5729e500af94a219006aa6b8": {
+    "question": "The amazon rainforest became a mostly inland forest around which global event?",
+    "model_answer": "",
+    "correct_answers": [
+      "last glacial maximum"
+    ]
+  },
+  "5729e500af94a219006aa6b9": {
+    "question": "Savannah areas expanded over the last how many years?",
+    "model_answer": "",
+    "correct_answers": [
+      "34 million years",
+      "34 million"
+    ]
+  },
+  "57283d173acd2414000df78f": {
+    "question": "When was the drainage basin of the Amazon believed to have split in the middle of South America?",
+    "model_answer": "",
+    "correct_answers": [
+      "During the mid-Eocene"
+    ]
+  },
+  "57283d173acd2414000df792": {
+    "question": "What did water that flowed towards the Pacific have to flow across during the mid-Eocene?",
+    "model_answer": "",
+    "correct_answers": [
+      "Amazonas Basin",
+      "Andes Mountains"
+    ]
+  },
+  "5728455bff5b5019007da07b": {
+    "question": "How much Saharan dust remains in the air over the Amazon each year?",
+    "model_answer": "",
+    "correct_answers": [
+      "132 million tons"
+    ]
+  },
+  "5728455bff5b5019007da07c": {
+    "question": "How much Saharan dust is blown and falls upon the Caribbean Sea each year?",
+    "model_answer": "",
+    "correct_answers": [
+      "43 million tons"
+    ]
+  },
+  "5729ea263f37b319004785c0": {
+    "question": "How many miles across the Atlantic Ocean does Saharan dust travel?",
+    "model_answer": "",
+    "correct_answers": [
+      "1,600 miles",
+      "1,600"
+    ]
+  },
+  "5729eb34af94a219006aa6c9": {
+    "question": "Which archaeologist proposed the idea that the Amazon rainforest couldn't sustain large populations? ",
+    "model_answer": "",
+    "correct_answers": [
+      "Betty Meggers"
+    ]
+  },
+  "5729eb34af94a219006aa6ca": {
+    "question": "Which book discussed the theory about low populations in the Amazon rainforest?",
+    "model_answer": "",
+    "correct_answers": [
+      "Amazonia: Man and Culture in a Counterfeit Paradise"
+    ]
+  },
+  "5725cf3238643c19005acd62": {
+    "question": "How much is terra preta distributed over the Amazon forest?",
+    "model_answer": "",
+    "correct_answers": [
+      "large areas",
+      "over large areas"
+    ]
+  },
+  "5729fd56af94a219006aa730": {
+    "question": "Acessing the Amazon rainforest was restricted before what era?",
+    "model_answer": "",
+    "correct_answers": [
+      "the early 1960s",
+      "early 1960s",
+      "1960s"
+    ]
+  },
+  "5729fd56af94a219006aa733": {
+    "question": "What is notable about the Amazon forest when it is seen from space?",
+    "model_answer": "",
+    "correct_answers": [
+      "areas cleared of forest are visible to the naked eye",
+      "areas cleared of forest"
+    ]
+  },
+  "572a005f1d046914007796b9": {
+    "question": "The rate of clearing of forest from 2000 to 2005 was how many square miles per year?",
+    "model_answer": "",
+    "correct_answers": [
+      "8,646 sq mi",
+      "22,392 km2 or 8,646 sq mi",
+      "8,646"
+    ]
+  },
+  "572a005f1d046914007796ba": {
+    "question": "How much higher was the rate of deforestation in 2000, to 2005 compared to 1995 to 2000?",
+    "model_answer": "",
+    "correct_answers": [
+      "18% higher",
+      "18%"
+    ]
+  },
+  "572a07c11d046914007796d7": {
+    "question": "Tribal members living in the rainforests of what region are using Google Earth?",
+    "model_answer": "",
+    "correct_answers": [
+      "southern Suriname"
+    ]
+  },
+  "572a07c11d046914007796d8": {
+    "question": "What do tribes use Google Earth and GPS for?",
+    "model_answer": "",
+    "correct_answers": [
+      "to help strengthen their territorial claims",
+      "map out their ancestral lands to help strengthen their territorial claims",
+      "map out their ancestral lands"
+    ]
+  },
+  "5726400589a1e219009ac5f2": {
+    "question": "How many different species of ctenohore are there?",
+    "model_answer": "",
+    "correct_answers": [
+      "100–150 species",
+      "100–150",
+      "100–150 species have been validated"
+    ]
+  },
+  "5725c69738643c19005accbb": {
+    "question": "What does  mnemiopsis eat?",
+    "model_answer": "",
+    "correct_answers": [
+      "fish larvae and organisms",
+      "fish larvae and organisms that would otherwise have fed the fish"
+    ]
+  },
+  "5725c91e38643c19005accee": {
+    "question": "What were the fossils that were found to represent ctenphores missing that current ctenphora have?",
+    "model_answer": "",
+    "correct_answers": [
+      "tentacles"
+    ]
+  },
+  "5726449f1125e71900ae1929": {
+    "question": "What event happened 66 million years ago?",
+    "model_answer": "",
+    "correct_answers": [
+      "Cretaceous–Paleogene extinction",
+      "the Cretaceous–Paleogene extinction"
+    ]
+  },
+  "572646655951b619008f6ec0": {
+    "question": "What do ctenophores have that no other animals have?",
+    "model_answer": "",
+    "correct_answers": [
+      "colloblasts"
+    ]
+  },
+  "57264a0ef1498d1400e8db43": {
+    "question": "Which ctenophora have been studies the most?",
+    "model_answer": "",
+    "correct_answers": [
+      "Pleurobrachia, Beroe and Mnemiopsis"
+    ]
+  },
+  "57265746dd62a815002e821b": {
+    "question": "The long tentacles on the pleurbrachia are protected by what?",
+    "model_answer": "",
+    "correct_answers": [
+      "a sheath",
+      "a sheath into which it can be withdrawn"
+    ]
+  },
+  "57265aaf5951b619008f706d": {
+    "question": "How many auricles do most species have?",
+    "model_answer": "",
+    "correct_answers": [
+      "four"
+    ]
+  },
+  "57265c10f1498d1400e8dd36": {
+    "question": "What does the bathocyroe and ocyropsis do to escape danger?",
+    "model_answer": "",
+    "correct_answers": [
+      "by clapping their lobes",
+      "clapping their lobes"
+    ]
+  },
+  "57265d86f1498d1400e8dd53": {
+    "question": "What does the beroe do when pursuing prey?",
+    "model_answer": "",
+    "correct_answers": [
+      "\"zip\" the mouth shut",
+      "streamlines the front of the animal",
+      "tight closure streamlines the front of the animal"
+    ]
+  },
+  "57265d86f1498d1400e8dd54": {
+    "question": "What does the beroida have instead of feeding appendages?",
+    "model_answer": "",
+    "correct_answers": [
+      "large pharynx",
+      "large cilia",
+      "\"macrocilia\""
+    ]
+  },
+  "572686fc708984140094c8e5": {
+    "question": "What do bathyctena chuni, euplokamis stationis and eurhamphaea vexilligera have in common?",
+    "model_answer": "",
+    "correct_answers": [
+      "they produce secretions (ink) that luminesce",
+      "they produce secretions (ink) that luminesce at much the same wavelengths as their bodies"
+    ]
+  },
+  "57268f05dd62a815002e8991": {
+    "question": "What type of fossils were found in China?",
+    "model_answer": "",
+    "correct_answers": [
+      "Cambrian sessile frond-like fossil Stromatoveris",
+      "Stromatoveris",
+      "sessile frond-like"
+    ]
+  },
+  "5725d42a89a1e219009abf5c": {
+    "question": "Who was Bill Aiken's adopted mother?",
+    "model_answer": "",
+    "correct_answers": [
+      "Lupe Mayorga"
+    ]
+  },
+  "5725d7e438643c19005acdfa": {
+    "question": "What were two of Fresno's most beautiful architectural buildings that are now demolished?",
+    "model_answer": "",
+    "correct_answers": [
+      "Fresno County Courthouse (demolished), the Fresno Carnegie Public Library",
+      "the original Fresno County Courthouse (demolished), the Fresno Carnegie Public Library (demolished)"
+    ]
+  },
+  "5725e748ec44d21400f3d733": {
+    "question": "What type of homes is Fresno known for?",
+    "model_answer": "",
+    "correct_answers": [
+      "early twentieth century homes",
+      "early twentieth century"
+    ]
+  },
+  "5725edfe38643c19005acea3": {
+    "question": "Which neighborhood lies west of the 41 freeway?",
+    "model_answer": "",
+    "correct_answers": [
+      "\"West Side\"",
+      "West Side"
+    ]
+  },
+  "5725f00938643c19005acedb": {
+    "question": "What area of Brookhaven is still known for its high levels of crime?",
+    "model_answer": "",
+    "correct_answers": [
+      "The isolated subdivision",
+      "Dogg Pound"
+    ]
+  },
+  "5725f190ec44d21400f3d772": {
+    "question": "Where is the airport located?",
+    "model_answer": "",
+    "correct_answers": [
+      "the West Side",
+      "West Side",
+      "on the West Side"
+    ]
+  },
+  "5725d52f89a1e219009abf78": {
+    "question": "Packet Switching contrast with what other principal ",
+    "model_answer": "",
+    "correct_answers": [
+      "circuit switching"
+    ]
+  },
+  "5726378238643c19005ad315": {
+    "question": "What was suggested at the Symposium in 1967",
+    "model_answer": "",
+    "correct_answers": [
+      "suggested it for use in the ARPANET",
+      "use in the ARPANET"
+    ]
+  },
+  "5726398589a1e219009ac588": {
+    "question": "What does connection orientation require",
+    "model_answer": "",
+    "correct_answers": [
+      "a setup phase in each involved node before any packet is transferred to establish the parameters of communication",
+      "a setup phase in each involved node",
+      "setup phase"
+    ]
+  },
+  "5726398589a1e219009ac58a": {
+    "question": "Why is the node requiered to look up ",
+    "model_answer": "",
+    "correct_answers": [
+      "Routing a packet requires the node to look up the connection id in a table",
+      "the connection id in a table",
+      "connection id"
+    ]
+  },
+  "57263c78ec44d21400f3dc7c": {
+    "question": "2 differences betwen X.25 and ARPNET CITA technologies ",
+    "model_answer": "",
+    "correct_answers": [
+      "Two fundamental differences involved the division of functions and tasks between the hosts at the edge of the network and the network core",
+      "the division of functions and tasks between the hosts at the edge of the network and the network core.",
+      "division of functions and tasks between the hosts at the edge of the network and the network core"
+    ]
+  },
+  "57263c78ec44d21400f3dc7e": {
+    "question": "X.25 uses what type network type ",
+    "model_answer": "",
+    "correct_answers": [
+      "User Datagram Protocol",
+      "the datagram model",
+      "UDP"
+    ]
+  },
+  "57263cfcec44d21400f3dc8d": {
+    "question": "What was Apple Talk ",
+    "model_answer": "",
+    "correct_answers": [
+      "a proprietary suite of networking protocols developed by Apple Inc. in 1985",
+      "a proprietary suite of networking protocols developed by Apple Inc",
+      "proprietary suite of networking protocols"
+    ]
+  },
+  "57263dcd89a1e219009ac5a2": {
+    "question": "What network was designed by the french ",
+    "model_answer": "",
+    "correct_answers": [
+      "CYCLADES packet switching network",
+      "CYCLADES"
+    ]
+  },
+  "57263dcd89a1e219009ac5a5": {
+    "question": "This network influenced  later models of ",
+    "model_answer": "",
+    "correct_answers": [
+      "later ARPANET architecture",
+      "ARPANET"
+    ]
+  },
+  "57263ea0271a42140099d7c5": {
+    "question": "DEC originally had 3 layers but evolved into how many layers ",
+    "model_answer": "",
+    "correct_answers": [
+      "Initially built with three layers, it later (1982) evolved into a seven-layer OSI-compliant networking protocol",
+      "seven"
+    ]
+  },
+  "57263ea0271a42140099d7c6": {
+    "question": "What did DECnet phase 2 become ",
+    "model_answer": "",
+    "correct_answers": [
+      "were open standards with published specifications, and several implementations were developed outside DEC, including one for Linux",
+      "Linux",
+      "open standards"
+    ]
+  },
+  "57264228ec44d21400f3dcf9": {
+    "question": "Telnet was sold to ",
+    "model_answer": "",
+    "correct_answers": [
+      "Telenet was incorporated in 1973 and started operations in 1975. It went public in 1979 and was then sold to GTE",
+      "GTE"
+    ]
+  },
+  "5726431aec44d21400f3dd16": {
+    "question": "The business allowed for private companies to do what ",
+    "model_answer": "",
+    "correct_answers": [
+      "government agencies and large companies (mostly banks and airlines) to build their own dedicated networks",
+      "build their own dedicated networks"
+    ]
+  },
+  "5726431aec44d21400f3dd17": {
+    "question": "Gateways allowed private companies to do what ",
+    "model_answer": "",
+    "correct_answers": [
+      "private networks were often connected via gateways to the public network to reach locations not on the private network",
+      "reach locations not on the private network"
+    ]
+  },
+  "572643de5951261400b5195c": {
+    "question": "WHat did foreign clones of DATAPAC allow for ",
+    "model_answer": "",
+    "correct_answers": [
+      "A user or host could call a host on a foreign network by including the DNIC of the remote network as part of the destination address",
+      "the interconnection of national X.25 networks",
+      "interconnection of national X.25 networks"
+    ]
+  },
+  "57264586f1498d1400e8dac6": {
+    "question": "What was DATANET 1 ",
+    "model_answer": "",
+    "correct_answers": [
+      "was the public switched data network operated by the Dutch PTT Telecom",
+      "the public switched data network operated by the Dutch PTT Telecom",
+      "public switched data network"
+    ]
+  },
+  "57264586f1498d1400e8dac7": {
+    "question": "Strictly speaking who was included in DATANET 1",
+    "model_answer": "",
+    "correct_answers": [
+      "Datanet 1 only referred to the network and the connected users via leased lines",
+      "the network",
+      "the network and the connected users"
+    ]
+  },
+  "57264586f1498d1400e8dac8": {
+    "question": "Who else did DATNET 1 refer to ",
+    "model_answer": "",
+    "correct_answers": [
+      "public PAD service Telepad (using the DNIC 2049",
+      "the public PAD service Telepad",
+      "public PAD service Telepad"
+    ]
+  },
+  "5726472bdd62a815002e8046": {
+    "question": "ableine was retired and the new platform is called ",
+    "model_answer": "",
+    "correct_answers": [
+      "Internet2 officially retired Abilene and now refers to its new, higher capacity network as the Internet2 Network",
+      "Internet2 Network"
+    ]
+  },
+  "572648d1708984140094c15f": {
+    "question": "Who operated the vBSN network ",
+    "model_answer": "",
+    "correct_answers": [
+      "The network was engineered and operated by MCI Telecommunications under a cooperative agreement with the NSF",
+      "MCI Telecommunications",
+      "National Science Foundation"
+    ]
+  },
+  "572648d1708984140094c160": {
+    "question": "By 199 how many universities were connected ",
+    "model_answer": "",
+    "correct_answers": [
+      "By 1998, the vBNS had grown to connect more than 100 universities and research and engineering institutions via 12 national points of presence with DS-3",
+      "more than 100 universities",
+      "100"
+    ]
+  },
+  "57264845f1498d1400e8db0b": {
+    "question": "Who did the army siege belong to?",
+    "model_answer": "",
+    "correct_answers": [
+      "Jani Beg"
+    ]
+  },
+  "572648ed5951b619008f6f04": {
+    "question": "Which country was the last to receive the disease?",
+    "model_answer": "",
+    "correct_answers": [
+      "northwestern Russia",
+      "Russia"
+    ]
+  },
+  "57264b3edd62a815002e80aa": {
+    "question": "What was the black death originally blamed on?",
+    "model_answer": "",
+    "correct_answers": [
+      "the heavens"
+    ]
+  },
+  "57264c42dd62a815002e80c9": {
+    "question": "What did Paul-Louis Simond establish in 1898?",
+    "model_answer": "",
+    "correct_answers": [
+      "The mechanism by which Y. pestis was usually transmitted",
+      "mechanism by which Y. pestis was usually transmitted"
+    ]
+  },
+  "57264d58f1498d1400e8db7b": {
+    "question": "How high do plague fevers run?",
+    "model_answer": "",
+    "correct_answers": [
+      "100–106 °F",
+      "38–41 °C",
+      "41 °C"
+    ]
+  },
+  "57264e2f708984140094c1e2": {
+    "question": "What was the Plos Pathogens paper about?",
+    "model_answer": "",
+    "correct_answers": [
+      "a new investigation into the role of Yersinia pestis in the Black Death",
+      "role of Yersinia pestis in the Black Death",
+      "the role of Yersinia pestis in the Black Death"
+    ]
+  },
+  "57264e2f708984140094c1e5": {
+    "question": "What does the plos pathogen paper claim?",
+    "model_answer": "",
+    "correct_answers": [
+      "unambiguously demonstrates that Y. pestis was the causative agent of the epidemic plague",
+      "Y. pestis was the causative agent of the epidemic plague",
+      "Y. pestis was the causative agent of the epidemic plague that devastated Europe during the Middle Ages"
+    ]
+  },
+  "5726509bdd62a815002e815d": {
+    "question": "What did Graham Twigg publish in 1984?",
+    "model_answer": "",
+    "correct_answers": [
+      "the first major work to challenge the bubonic plague theory directly",
+      "first major work to challenge the bubonic plague theory directly,"
+    ]
+  },
+  "5726509bdd62a815002e815e": {
+    "question": "Who discussed Twigg's study in 2002?",
+    "model_answer": "",
+    "correct_answers": [
+      "Samuel K. Cohn, Jr."
+    ]
+  },
+  "57265285708984140094c25b": {
+    "question": "Why might rats not be responsible for the plague?",
+    "model_answer": "",
+    "correct_answers": [
+      "the rat population was insufficient",
+      "rat population was insufficient",
+      "rat population was insufficient to account for a bubonic plague pandemic"
+    ]
+  },
+  "5726534d708984140094c26d": {
+    "question": "What does Graham Twigg propose about the spread of disease?",
+    "model_answer": "",
+    "correct_answers": [
+      "a form of anthrax",
+      "was a form of anthrax",
+      "the cause was a form of anthrax"
+    ]
+  },
+  "57265642f1498d1400e8dc6b": {
+    "question": "Which outbreak was associated with troops in the thirty years war?",
+    "model_answer": "",
+    "correct_answers": [
+      "the Italian Plague of 1629–1631",
+      "Italian Plague"
+    ]
+  },
+  "57265700dd62a815002e8210": {
+    "question": "How many residents of Seville died of plague in 1649?",
+    "model_answer": "",
+    "correct_answers": [
+      "reduced the population of Seville by half",
+      "half"
+    ]
+  },
+  "57265700dd62a815002e8211": {
+    "question": "Who fought in the great Northern war?",
+    "model_answer": "",
+    "correct_answers": [
+      "Sweden v. Russia and allies"
+    ]
+  },
+  "5726577f708984140094c304": {
+    "question": "How many people, at most, have died of plague in Baghdad? ",
+    "model_answer": "",
+    "correct_answers": [
+      "two-thirds of its population"
+    ]
+  },
+  "57266193dd62a815002e832d": {
+    "question": "In the layered model of the Earth there are seismic discontinuities in which layer? ",
+    "model_answer": "",
+    "correct_answers": [
+      "the mantle",
+      "mantle"
+    ]
+  },
+  "572663a9f1498d1400e8ddf2": {
+    "question": "Why is the second timeline needed? ",
+    "model_answer": "",
+    "correct_answers": [
+      "second scale shows the most recent eon with an expanded scale",
+      "compresses the most recent era"
+    ]
+  },
+  "572667e2f1498d1400e8de91": {
+    "question": "Xenoliths are picked up by what and deposited into the matrix of igneous rocks? ",
+    "model_answer": "",
+    "correct_answers": [
+      "magma or lava flows",
+      "magma or lava"
+    ]
+  },
+  "572669a9dd62a815002e841a": {
+    "question": "The principle of faunal succession was developed 100 years before whose theory of evolution?",
+    "model_answer": "",
+    "correct_answers": [
+      "Charles Darwin"
+    ]
+  },
+  "572671a5f1498d1400e8dfe6": {
+    "question": "Where can the entire sedimentary sequence of the Grand Canyon be seen in less than the length of a meter?",
+    "model_answer": "",
+    "correct_answers": [
+      "within the Maria Fold and Thrust Belt",
+      "Maria Fold and Thrust Belt"
+    ]
+  },
+  "57267947f1498d1400e8e0ec": {
+    "question": "What do petrologists use electron microprobes in the laboratory for?",
+    "model_answer": "",
+    "correct_answers": [
+      "identifying rocks"
+    ]
+  },
+  "57267947f1498d1400e8e0ed": {
+    "question": "What properties are analyzed with a conoscopic lens by petrologists? ",
+    "model_answer": "",
+    "correct_answers": [
+      "birefringence, pleochroism, twinning, and interference properties",
+      "birefringence, pleochroism, twinning, and interference"
+    ]
+  },
+  "57267947f1498d1400e8e0f0": {
+    "question": "What type of microscope is used by petrologists?",
+    "model_answer": "",
+    "correct_answers": [
+      "petrographic microscope",
+      "petrographic"
+    ]
+  },
+  "57267b3c5951b619008f7423": {
+    "question": "How else can petrologists understand the pressures at which different mineral phases appear?",
+    "model_answer": "",
+    "correct_answers": [
+      "pressure physical experiments",
+      "fluid inclusion data"
+    ]
+  },
+  "57267b3c5951b619008f7424": {
+    "question": "How else can petrologists understand the temperature at which different mineral phases appear?",
+    "model_answer": "",
+    "correct_answers": [
+      "physical experiments",
+      "high temperature and pressure physical experiments",
+      "pressure physical experiments"
+    ]
+  },
+  "572683f95951b619008f7529": {
+    "question": "What prompted Shen Kuo to believe the land was formed by erosion of the mountains?",
+    "model_answer": "",
+    "correct_answers": [
+      "his observation of fossil animal shells",
+      "fossil animal shells",
+      "based on his observation of fossil animal shells in a geological stratum in a mountain hundreds of miles from the ocean"
+    ]
+  },
+  "5726db5add62a815002e92d8": {
+    "question": "Who added to Dioscorides' book in the Islamic Golden Age?",
+    "model_answer": "",
+    "correct_answers": [
+      "many middle eastern scientists",
+      "middle eastern scientists"
+    ]
+  },
+  "5726dcbddd62a815002e9322": {
+    "question": "What put a hierarchical structure in place?",
+    "model_answer": "",
+    "correct_answers": [
+      "the pre-Heian Imperial court",
+      "Taihō Code",
+      "pre-Heian Imperial court"
+    ]
+  },
+  "5726ddf6f1498d1400e8ee08": {
+    "question": "Who wrote about the distillation of drinking water from sea water?",
+    "model_answer": "",
+    "correct_answers": [
+      "Al-Muwaffaq"
+    ]
+  },
+  "5726e313f1498d1400e8eeb4": {
+    "question": "What types of pharmacy functions have begun to be outsourced?",
+    "model_answer": "",
+    "correct_answers": [
+      "high risk preparations and some other compounding functions"
+    ]
+  },
+  "5726eb4b5951b619008f826e": {
+    "question": "What is one reason a patient might choose an internet pharmacy?",
+    "model_answer": "",
+    "correct_answers": [
+      "another customer might overhear about the drugs that they take",
+      "homebound",
+      "more convenient and private method"
+    ]
+  },
+  "5726ed6cf1498d1400e8f00d": {
+    "question": "Who has criticized ordering from online pharmacies that don't require prescriptions?",
+    "model_answer": "",
+    "correct_answers": [
+      "those who feel that only doctors can reliably assess contraindications, risk/benefit ratios, and an individual's overall suitability for use of a medication.",
+      "by those who feel that only doctors can reliably assess contraindications, risk/benefit ratios, and an individual's overall suitability for use of a medication",
+      "those who feel that only doctors can reliably assess contraindications, risk/benefit ratios, and an individual's overall suitability for use of a medication"
+    ]
+  },
+  "5726edecdd62a815002e957f": {
+    "question": "What conditions must be met for a prescription for a controlled substance to be valid?",
+    "model_answer": "",
+    "correct_answers": [
+      "it must be issued for a legitimate medical purpose by a licensed practitioner acting in the course of legitimate doctor-patient relationship"
+    ]
+  },
+  "5726ef73f1498d1400e8f05f": {
+    "question": "What conditions must be met to prescribe a controlled substance?",
+    "model_answer": "",
+    "correct_answers": [
+      "it must be issued for a legitimate medical purpose by a licensed practitioner acting in the course of legitimate doctor-patient relationship"
+    ]
+  },
+  "5726f0e35951b619008f82f9": {
+    "question": "Who are FDA laws against importing medications aimed at?",
+    "model_answer": "",
+    "correct_answers": [
+      "international drug suppliers, rather than consumers",
+      "international drug suppliers"
+    ]
+  },
+  "5726f36cdd62a815002e95fe": {
+    "question": "What is the fastest growing area in the pharmaceutical industry?",
+    "model_answer": "",
+    "correct_answers": [
+      "specialty pharmacies"
+    ]
+  },
+  "5726f635dd62a815002e9657": {
+    "question": "What is another country that permits physicians to give out drugs from within their practice?",
+    "model_answer": "",
+    "correct_answers": [
+      "Austria"
+    ]
+  },
+  "5726f7715951b619008f838f": {
+    "question": "What do rules about conflict of interest involving doctors diagnosing patients resemble?",
+    "model_answer": "",
+    "correct_answers": [
+      "the checks and balances system of the U.S. and many other governments.",
+      "checks and balances system of the U.S. and many other governments",
+      "similarity to the checks and balances system of the U.S. and many other governments"
+    ]
+  },
+  "57271c235951b619008f860d": {
+    "question": "What was the the movement called that brought Baltic countries independence from the Soviet Union?",
+    "model_answer": "",
+    "correct_answers": [
+      "Singing Revolution",
+      "the Singing Revolution"
+    ]
+  },
+  "5728d4c03acd2414000dffa3": {
+    "question": "What civil rights movement in the US was known for it's disobedience?",
+    "model_answer": "",
+    "correct_answers": [
+      "American Civil Rights Movement",
+      "Civil Rights Movement"
+    ]
+  },
+  "57271f125951b619008f8636": {
+    "question": "Who is Antigone's father in the play?",
+    "model_answer": "",
+    "correct_answers": [
+      "former King of Thebes",
+      "Oedipus",
+      "King of Thebes"
+    ]
+  },
+  "5728d63c4b864d1900164f19": {
+    "question": "The Mark of Anarchy was written to protest against what?",
+    "model_answer": "",
+    "correct_answers": [
+      "unjust forms of authority",
+      "Peterloo massacre",
+      "the unjust forms of authority"
+    ]
+  },
+  "572807802ca10214002d9bfa": {
+    "question": "Le grand asks for a variance of what three terms?",
+    "model_answer": "",
+    "correct_answers": [
+      "lawful protest demonstration, nonviolent civil disobedience, and violent civil disobedience"
+    ]
+  },
+  "5728d7c54b864d1900164f4e": {
+    "question": "What issue plagues the literature about civil disobedience?",
+    "model_answer": "",
+    "correct_answers": [
+      "semantical problems and grammatical niceties",
+      "maze of semantical problems and grammatical niceties"
+    ]
+  },
+  "57280f974b864d1900164373": {
+    "question": "When would a person be considered to be excising a constitutional impasse?",
+    "model_answer": "",
+    "correct_answers": [
+      "the head of government would be acting in her or his capacity as public official",
+      "two public agencies, especially two equally sovereign branches of government, conflict",
+      "if the head of government of a country were to refuse to enforce a decision of that country's highest court"
+    ]
+  },
+  "5728d9403acd2414000e001c": {
+    "question": "What does not constitute as civil disobedience?",
+    "model_answer": "",
+    "correct_answers": [
+      "refuse to enforce a decision",
+      "constitutional impasse",
+      "two public agencies, especially two equally sovereign branches of government, conflict.",
+      "a constitutional impasse in which two public agencies"
+    ]
+  },
+  "5728d9403acd2414000e001f": {
+    "question": "What group of people cannot be part of civil disobedience?",
+    "model_answer": "",
+    "correct_answers": [
+      "sovereign branches of government",
+      "public official",
+      "public agencies",
+      "public"
+    ]
+  },
+  "572812e74b864d19001643d1": {
+    "question": "What did Thoreau ask a public figure the taxman to do?",
+    "model_answer": "",
+    "correct_answers": [
+      "Resign",
+      "refusal to pay"
+    ]
+  },
+  "5728dafe3acd2414000e005f": {
+    "question": "Who was famous for disobedience against a tax collector?",
+    "model_answer": "",
+    "correct_answers": [
+      "Thoreau"
+    ]
+  },
+  "5728dafe3acd2414000e0061": {
+    "question": "What did Thoreau claim about the majority?",
+    "model_answer": "",
+    "correct_answers": [
+      "not necessarily right",
+      "may be powerful but it is not necessarily right",
+      "The majority may be powerful but it is not necessarily right"
+    ]
+  },
+  "5728151b4b864d190016442b": {
+    "question": "Browlee also applies that civil disobedience is okay regarding?",
+    "model_answer": "",
+    "correct_answers": [
+      "international organizations and foreign governments",
+      "a larger challenge to the legal system that permits those decisions to be taken",
+      "breaches of law in protest against international organizations and foreign governments",
+      "opposition to the decisions of non-governmental agencies such as trade unions, banks, and private universities"
+    ]
+  },
+  "5728dc2d3acd2414000e0080": {
+    "question": "Who claims that public companies can also be part of civil disobedience?",
+    "model_answer": "",
+    "correct_answers": [
+      "Brownlee"
+    ]
+  },
+  "5728dc2d3acd2414000e0081": {
+    "question": "What reason is given that you should also protest public companies?",
+    "model_answer": "",
+    "correct_answers": [
+      "a larger challenge to the legal system",
+      "challenge to the legal system that permits those decisions to be taken",
+      "it reflects \"a larger challenge to the legal system that permits those decisions to be taken"
+    ]
+  },
+  "572818f54b864d190016446e": {
+    "question": "Stephen Eilmann demonstrates covert law breaking in Nazi Germany.   Citizen's illegally had been doing what? ",
+    "model_answer": "",
+    "correct_answers": [
+      "hiding a Jew in their house",
+      "hiding a Jew"
+    ]
+  },
+  "5728dddc2ca10214002da9d3": {
+    "question": "What is necessary to disobey?",
+    "model_answer": "",
+    "correct_answers": [
+      "rules that conflict with morality"
+    ]
+  },
+  "5728dddc2ca10214002da9d4": {
+    "question": "What is sometimes more effective than civil disobedience at times?",
+    "model_answer": "",
+    "correct_answers": [
+      "fabricating evidence or committing perjury",
+      "covert lawbreaking",
+      "assisting in fabricating evidence or committing perjury"
+    ]
+  },
+  "5728dddc2ca10214002da9d5": {
+    "question": "What dilemma is a good example of moral civil disobedience?",
+    "model_answer": "",
+    "correct_answers": [
+      "the dilemma faced by German citizens",
+      "German citizens when Hitler's secret police demanded to know if they were hiding a Jew in their house",
+      "the dilemma faced by German citizens when Hitler's secret police demanded to know if they were hiding a Jew in their house"
+    ]
+  },
+  "5728df634b864d1900164fe2": {
+    "question": "What type of civil disobedience is commonly accepted?",
+    "model_answer": "",
+    "correct_answers": [
+      "non-violent",
+      "non-violence"
+    ]
+  },
+  "5728df634b864d1900164fe3": {
+    "question": "When violence is used, what is civil disobedience sometimes called?",
+    "model_answer": "",
+    "correct_answers": [
+      "civil rebellion",
+      "rebellion"
+    ]
+  },
+  "572822233acd2414000df556": {
+    "question": "What did the Jewish people do so pagan items wouldn't be in the temple of Jerusalem?",
+    "model_answer": "",
+    "correct_answers": [
+      "gathered in the streets"
+    ]
+  },
+  "572822233acd2414000df557": {
+    "question": "Since Thoreau was not a well known writer what happened when he was arrested?",
+    "model_answer": "",
+    "correct_answers": [
+      "was not covered in any newspapers",
+      "was not covered in any newspapers in the days, weeks and months after it happened.",
+      "his arrest was not covered in any newspapers",
+      "his arrest was not covered in any newspapers in the days, weeks and months after it happened"
+    ]
+  },
+  "572825a92ca10214002d9f01": {
+    "question": "How long did Julia Butterfly Hill live in a tree?",
+    "model_answer": "",
+    "correct_answers": [
+      "738 days"
+    ]
+  },
+  "5728284e3acd2414000df5ce": {
+    "question": "What did Joseph Haas say in his email?",
+    "model_answer": "",
+    "correct_answers": [
+      "\"Wise up or die.\"",
+      "Wise up or die"
+    ]
+  },
+  "5728284e3acd2414000df5d1": {
+    "question": "What year did the the case go before the supreme court?",
+    "model_answer": "",
+    "correct_answers": [
+      "1978"
+    ]
+  },
+  "5728e5f43acd2414000e0171": {
+    "question": "What is one criminal behavior that is hard to stop by authorities?",
+    "model_answer": "",
+    "correct_answers": [
+      "pure speech",
+      "forbidden speech",
+      "engaging in the forbidden speech"
+    ]
+  },
+  "5728e5f43acd2414000e0174": {
+    "question": "What is one way of digital civil disobedience that can have far reaching consequences?",
+    "model_answer": "",
+    "correct_answers": [
+      "sending an email",
+      "email",
+      "Supreme Court case",
+      "broadcasting"
+    ]
+  },
+  "57282dfb4b864d190016466c": {
+    "question": "When large groups of people all boycott a system or don't pay taxes it can be considered?",
+    "model_answer": "",
+    "correct_answers": [
+      "coercive",
+      "civil disobedience"
+    ]
+  },
+  "5728e715ff5b5019007da914": {
+    "question": "What is a type of disobedience against the federal government?",
+    "model_answer": "",
+    "correct_answers": [
+      "refusals to pay taxes",
+      "civil disobedience"
+    ]
+  },
+  "5728e715ff5b5019007da918": {
+    "question": "How can you protest against big companies in a non violent way?",
+    "model_answer": "",
+    "correct_answers": [
+      "padlocking the gates",
+      "illegal boycotts, refusals to pay taxes, draft dodging, distributed denial-of-service attacks, and sit-ins",
+      "boycotts",
+      "illegal boycotts",
+      "sit-ins"
+    ]
+  },
+  "5728e8212ca10214002daa6c": {
+    "question": "What type of government investigations apply to civil disobedience?",
+    "model_answer": "",
+    "correct_answers": [
+      "criminal investigations",
+      "grant a consent search",
+      "Many of the same decisions and principles that apply in other criminal investigations",
+      "criminal"
+    ]
+  },
+  "5728e8212ca10214002daa6d": {
+    "question": "What is a way you can show police officers civil disobedience ?",
+    "model_answer": "",
+    "correct_answers": [
+      "not to grant a consent search",
+      "not to talk to police officers",
+      "not to talk",
+      "resist responding to investigators' questions",
+      "grant a consent search"
+    ]
+  },
+  "5728e8212ca10214002daa70": {
+    "question": "Why do some people purposely resist officers of the law?",
+    "model_answer": "",
+    "correct_answers": [
+      "use the arrest as an opportunity",
+      "civil disobedience",
+      "to make an impression"
+    ]
+  },
+  "5728eb1a3acd2414000e01c7": {
+    "question": "What do some people protest against?",
+    "model_answer": "",
+    "correct_answers": [
+      "legitimacy of a particular law",
+      "law",
+      "laws",
+      "the legitimacy of any government"
+    ]
+  },
+  "5728eb1a3acd2414000e01c8": {
+    "question": "What is the group called that does not agree with government at all?",
+    "model_answer": "",
+    "correct_answers": [
+      "anarchists"
+    ]
+  },
+  "5728ebcb3acd2414000e01d9": {
+    "question": "What is an important personal decision for civil disobedients?",
+    "model_answer": "",
+    "correct_answers": [
+      "whether or not to plead guilty",
+      "whether or not to plead guilty."
+    ]
+  },
+  "5728ebcb3acd2414000e01dd": {
+    "question": "What third type of plea uses creative words?",
+    "model_answer": "",
+    "correct_answers": [
+      "creative plea",
+      "no contest"
+    ]
+  },
+  "5728ed94ff5b5019007da97f": {
+    "question": "Why should one not go to jail?",
+    "model_answer": "",
+    "correct_answers": [
+      "accept jail penitently",
+      "is to switch suddenly to a spirit of subservience",
+      "To accept jail penitently as an accession to 'the rules' is to switch suddenly to a spirit of subservience"
+    ]
+  },
+  "5728f50baf94a219006a9e59": {
+    "question": "What type of treatment do civil disobedients usually receive?",
+    "model_answer": "",
+    "correct_answers": [
+      "mistreatment from government officials",
+      "mistreatment",
+      "sentence"
+    ]
+  },
+  "5728facd4b864d1900165171": {
+    "question": "What is a secondary goal of pleading not guilty?",
+    "model_answer": "",
+    "correct_answers": [
+      "use the proceedings as a forum",
+      "use the proceedings as a forum to inform the jury and the public of the political circumstances",
+      "win an acquittal and avoid imprisonment",
+      "use the proceedings as a forum to inform the jury and the public of the political circumstances surrounding the case"
+    ]
+  },
+  "5728facd4b864d1900165173": {
+    "question": "What US war has a large amount of Civil Disobedients?",
+    "model_answer": "",
+    "correct_answers": [
+      "Vietnam War"
+    ]
+  },
+  "5728facd4b864d1900165174": {
+    "question": "What can sympathetic Jurors in cases with civil disobedients?",
+    "model_answer": "",
+    "correct_answers": [
+      "jury nullification",
+      "nullification"
+    ]
+  },
+  "5728fb6a1d04691400778ef5": {
+    "question": "What needs to be avoided with civil disobedience?",
+    "model_answer": "",
+    "correct_answers": [
+      "general disobedience",
+      "undermine the law by encouraging general disobedience which is neither conscientious nor of social benefit",
+      "great amount of it",
+      "conscientious lawbreakers"
+    ]
+  },
+  "5728fc9e1d04691400778f13": {
+    "question": "What US war caused a high amount of civil disobedience?",
+    "model_answer": "",
+    "correct_answers": [
+      "Vietnam War",
+      "Vietnam"
+    ]
+  },
+  "5728fc9e1d04691400778f15": {
+    "question": "Why are people who distribute leaflets inside courthouses not been arrested?",
+    "model_answer": "",
+    "correct_answers": [
+      "the leaflets will have to be given to the leafleter's own jury as evidence",
+      "if they arrest fully informed jury leafleters, the leaflets will have to be given to the leafleter's own jury as evidence"
+    ]
+  },
+  "5728fd3c3f37b31900477f2b": {
+    "question": "What is the main goal of criminal punishment of civil disobedients?",
+    "model_answer": "",
+    "correct_answers": [
+      "incapacitation",
+      "achieving crime control via incapacitation and deterrence",
+      "achieving crime control"
+    ]
+  },
+  "5728fd3c3f37b31900477f2e": {
+    "question": "Who decides the fate of protesters most of the time?",
+    "model_answer": "",
+    "correct_answers": [
+      "the state",
+      "judges",
+      "the state (including the judges)",
+      "the judges"
+    ]
+  },
+  "572742bd5951b619008f8787": {
+    "question": "Residential construction can generate what is not carefully planned?",
+    "model_answer": "",
+    "correct_answers": [
+      "a lot of waste",
+      "waste"
+    ]
+  },
+  "57274712708984140094dbae": {
+    "question": "What are private schools that charge no tuition called?",
+    "model_answer": "",
+    "correct_answers": [
+      "'tuition-free",
+      "tuition-free"
+    ]
+  },
+  "57274712708984140094dbaf": {
+    "question": "Along with Canada and the United Kingdom, what country generally doesn't refer to universities as private schools?",
+    "model_answer": "",
+    "correct_answers": [
+      "Australia"
+    ]
+  },
+  "5727482bf1498d1400e8f5a6": {
+    "question": "What type of education is sometimes present at religious schools in addition to the secular curriculum?",
+    "model_answer": "",
+    "correct_answers": [
+      "religious",
+      "the usual academic subjects"
+    ]
+  },
+  "57274971708984140094dbbb": {
+    "question": "Along with the Anglican Church and Uniting Church, what religious denomination operates private schools in Australia?",
+    "model_answer": "",
+    "correct_answers": [
+      "Presbyterian",
+      "Presbyterian Church"
+    ]
+  },
+  "57274971708984140094dbbc": {
+    "question": "What denomination operates St Joseph's College?",
+    "model_answer": "",
+    "correct_answers": [
+      "Catholic"
+    ]
+  },
+  "57274a1edd62a815002e9a9c": {
+    "question": "What percentage of German students attended private schools in 2008?",
+    "model_answer": "",
+    "correct_answers": [
+      "7.8",
+      "7.8%"
+    ]
+  },
+  "57274a1edd62a815002e9a9d": {
+    "question": "What was the percentage of Germans attending private high schools in 2008?",
+    "model_answer": "",
+    "correct_answers": [
+      "11.1",
+      "11.1%"
+    ]
+  },
+  "57274a1edd62a815002e9a9e": {
+    "question": "In 1992, what percentage of East German students attended private schools?",
+    "model_answer": "",
+    "correct_answers": [
+      "0.5",
+      "0.5%",
+      "6.1"
+    ]
+  },
+  "57274b35f1498d1400e8f5d4": {
+    "question": "What are private secondary schools in Germany called?",
+    "model_answer": "",
+    "correct_answers": [
+      "Ergänzungsschulen"
+    ]
+  },
+  "57274ca8dd62a815002e9aa5": {
+    "question": "What country has the most illiterate adults in the world?",
+    "model_answer": "",
+    "correct_answers": [
+      "India"
+    ]
+  },
+  "572757bef1498d1400e8f691": {
+    "question": "What is a derogatory term for the Christian academies that arose in the wake of school desegregation?",
+    "model_answer": "",
+    "correct_answers": [
+      "segregation academies"
+    ]
+  },
+  "572757bef1498d1400e8f692": {
+    "question": "In what part of the United States did many students migrate to Christian academies during the desegregation period?",
+    "model_answer": "",
+    "correct_answers": [
+      "South",
+      "U.S. South"
+    ]
+  },
+  "572759665951b619008f8887": {
+    "question": "Who was the opposing party in the Runyon case?",
+    "model_answer": "",
+    "correct_answers": [
+      "McCrary"
+    ]
+  },
+  "572759dbdd62a815002e9b97": {
+    "question": "In addition to endowments and tuition, how do boarding schools cover their operating costs?",
+    "model_answer": "",
+    "correct_answers": [
+      "fundraising",
+      "fundraising drives"
+    ]
+  },
+  "5727b8df3acd2414000dea9a": {
+    "question": "What liberal succeeded Joseph Willard as president?",
+    "model_answer": "",
+    "correct_answers": [
+      "Samuel Webber"
+    ]
+  },
+  "5727c55bff5b5019007d94ce": {
+    "question": "Who lead the school back to leading research institution in 2oth century?",
+    "model_answer": "",
+    "correct_answers": [
+      "James Bryant Conant"
+    ]
+  },
+  "5727c69d3acd2414000dec13": {
+    "question": "What was the ratio of men to women at Harvard/Radcliffe?",
+    "model_answer": "",
+    "correct_answers": [
+      "about four men attending Harvard College for every woman studying at Radcliffe",
+      "four men attending Harvard College for every woman studying at Radcliffe",
+      "four men attending Harvard College for every woman"
+    ]
+  },
+  "5727cd0f4b864d1900163d74": {
+    "question": "What additional benefits are there to surrounding community of expansion?",
+    "model_answer": "",
+    "correct_answers": [
+      "enhanced transit infrastructure, possible shuttles open to the public, and park space which will also be publicly accessible.",
+      "enhanced transit infrastructure, possible shuttles open to the public, and park space which will also be publicly accessible",
+      "enhanced transit infrastructure, possible shuttles open to the public, and park space"
+    ]
+  },
+  "5727cebc2ca10214002d96f3": {
+    "question": "When was the color crimson adopted at Harvard as official color?",
+    "model_answer": "",
+    "correct_answers": [
+      "1875"
+    ]
+  },
+  "5727cebc2ca10214002d96f4": {
+    "question": "What year is the earliest traces of the color Crimson at Harvard?",
+    "model_answer": "",
+    "correct_answers": [
+      "1858"
+    ]
+  },
+  "5727d3843acd2414000ded6a": {
+    "question": "Post 2008 undergraduate students are required to complete how many general education classes towards degree?",
+    "model_answer": "",
+    "correct_answers": [
+      "eight General Education categories",
+      "eight"
+    ]
+  },
+  "5727d3843acd2414000ded6b": {
+    "question": "What criticism in NY times article that impacts the quality of Education at Harvard?",
+    "model_answer": "",
+    "correct_answers": [
+      "reliance on teaching fellows"
+    ]
+  },
+  "5727d4922ca10214002d977e": {
+    "question": "What are the top 4-5% graduating students honored with?",
+    "model_answer": "",
+    "correct_answers": [
+      "summa cum laude"
+    ]
+  },
+  "5727d6154b864d1900163e36": {
+    "question": "After 2007 how much do student from families earning less than $60,000 pay for school?",
+    "model_answer": "",
+    "correct_answers": [
+      "nothing for their children to attend, including room and board",
+      "nothing"
+    ]
+  },
+  "5727de862ca10214002d9860": {
+    "question": "What UN secretary went to Harvard?",
+    "model_answer": "",
+    "correct_answers": [
+      "General Ban Ki-moon",
+      "Ban Ki-moon"
+    ]
+  },
+  "5727de862ca10214002d9861": {
+    "question": "What Columbia President went to Harvard?",
+    "model_answer": "",
+    "correct_answers": [
+      "Juan Manuel Santos"
+    ]
+  },
+  "5727de862ca10214002d9863": {
+    "question": "What Harvard Alumni was the Palestine Prime Minister?",
+    "model_answer": "",
+    "correct_answers": [
+      "Benjamin Netanyahu",
+      "Benazir Bhutto"
+    ]
+  },
+  "5727e0474b864d1900163f08": {
+    "question": "What tv host and writer went to Harvard?",
+    "model_answer": "",
+    "correct_answers": [
+      "Conan O'Brien"
+    ]
+  },
+  "57280e1aff5b5019007d9bee": {
+    "question": "What civilization did the pottery belong to?",
+    "model_answer": "",
+    "correct_answers": [
+      "Timucua",
+      "Timucua people",
+      "Mocama"
+    ]
+  },
+  "57280fd3ff5b5019007d9c28": {
+    "question": "Who led the attack of the French colony in 1565?",
+    "model_answer": "",
+    "correct_answers": [
+      "Pedro Menéndez de Avilés"
+    ]
+  },
+  "57280fd3ff5b5019007d9c2a": {
+    "question": "Which fort was rebuilt in 1964?",
+    "model_answer": "",
+    "correct_answers": [
+      "Fort Caroline"
+    ]
+  },
+  "572810ec2ca10214002d9d08": {
+    "question": "Why the narrow part of St. John's River called Cowford?",
+    "model_answer": "",
+    "correct_answers": [
+      "cattle were brought across the river there.",
+      "cattle were brought across",
+      "cattle were brought across the river there"
+    ]
+  },
+  "57281ab63acd2414000df493": {
+    "question": "What drove residents to quieter suburban housing?",
+    "model_answer": "",
+    "correct_answers": [
+      "highways",
+      "construction of highways",
+      "The construction of highways"
+    ]
+  },
+  "57281ab63acd2414000df495": {
+    "question": "What term referred to middle class citizens leaving the suburbs?",
+    "model_answer": "",
+    "correct_answers": [
+      "\"white flight\"",
+      "white flight"
+    ]
+  },
+  "57281bb84b864d190016449d": {
+    "question": "Who voted against Jacksonville's annexation?",
+    "model_answer": "",
+    "correct_answers": [
+      "Voters outside the city limits"
+    ]
+  },
+  "572826634b864d19001645c0": {
+    "question": "Compared to the rest of Florida, how does Jacksonville's Filipino population rank?",
+    "model_answer": "",
+    "correct_answers": [
+      "largest",
+      "largest Filipino American community"
+    ]
+  },
+  "572826634b864d19001645c1": {
+    "question": "What Jacksonville community is known for having heavy ties to the Navy?",
+    "model_answer": "",
+    "correct_answers": [
+      "Filipino",
+      "Filipino community"
+    ]
+  },
+  "572827fc3acd2414000df5bc": {
+    "question": "How many of Jacksonville's city residents are younger than 18?",
+    "model_answer": "",
+    "correct_answers": [
+      "23.9%"
+    ]
+  },
+  "572827fc3acd2414000df5be": {
+    "question": "How many men older than 18 are there for every 100 women?",
+    "model_answer": "",
+    "correct_answers": [
+      "91.3"
+    ]
+  },
+  "5727e8424b864d1900163fc3": {
+    "question": "What did the richest 400 Americans have as children that helped them be successful adults?",
+    "model_answer": "",
+    "correct_answers": [
+      "grew up in substantial privilege",
+      "substantial privilege"
+    ]
+  },
+  "5727e9523acd2414000def99": {
+    "question": "How is income determined in a market with variously skilled workers?",
+    "model_answer": "",
+    "correct_answers": [
+      "marginal value added of each economic actor",
+      "differences in value"
+    ]
+  },
+  "5727ec062ca10214002d99b6": {
+    "question": "What is controled by the market and economy?",
+    "model_answer": "",
+    "correct_answers": [
+      "workers wages",
+      "wages"
+    ]
+  },
+  "5727ec062ca10214002d99b8": {
+    "question": "What happens when business underpays their workers?",
+    "model_answer": "",
+    "correct_answers": [
+      "business is chronically understaffed",
+      "their business is chronically understaffed",
+      "chronically understaffed"
+    ]
+  },
+  "5727ed2e3acd2414000df001": {
+    "question": "What has the tendency to increase wages in a field or job position?",
+    "model_answer": "",
+    "correct_answers": [
+      "Competition amongst workers",
+      "high demand",
+      "competition between employers for employees"
+    ]
+  },
+  "5729da0faf94a219006aa679": {
+    "question": "While competition between workers drives down wages for jobs with a high supply of worker, whose competition drives wages up for the inverse?",
+    "model_answer": "",
+    "correct_answers": [
+      "employers"
+    ]
+  },
+  "5727ee372ca10214002d99ec": {
+    "question": "What increases with the increase of income inequality?",
+    "model_answer": "",
+    "correct_answers": [
+      "entrepreneurship rates"
+    ]
+  },
+  "5727ee372ca10214002d99f0": {
+    "question": "What type of entrepreneurship leads to advancements in technology?",
+    "model_answer": "",
+    "correct_answers": [
+      "opportunity-based entrepreneurship",
+      "opportunity-based"
+    ]
+  },
+  "5729de24af94a219006aa68a": {
+    "question": "What is the increased rates of self-employment based on?",
+    "model_answer": "",
+    "correct_answers": [
+      "necessity",
+      "necessity rather than opportunity"
+    ]
+  },
+  "5727f05b4b864d1900164068": {
+    "question": "What is key to getting the skills needed for high demand jobs?",
+    "model_answer": "",
+    "correct_answers": [
+      "access to education",
+      "Education",
+      "education"
+    ]
+  },
+  "5727f05b4b864d1900164069": {
+    "question": "What do people with lower income have less access to?",
+    "model_answer": "",
+    "correct_answers": [
+      "optional education",
+      "education"
+    ]
+  },
+  "5727f05b4b864d190016406c": {
+    "question": "What are those with lower incomes less likely to have in order to prepare for the future?",
+    "model_answer": "",
+    "correct_answers": [
+      "savings and investment",
+      "education,",
+      "education"
+    ]
+  },
+  "5727f16c3acd2414000df05b": {
+    "question": "What did Standard & Poor recommend to speed economy recovery?",
+    "model_answer": "",
+    "correct_answers": [
+      "increasing access to education"
+    ]
+  },
+  "5727f16c3acd2414000df05e": {
+    "question": "Who concluded that the rising income inequality gap was not getting better?",
+    "model_answer": "",
+    "correct_answers": [
+      "Standard & Poor",
+      "economists with the Standard & Poor's rating agency"
+    ]
+  },
+  "5729e1e36aef0514001550bb": {
+    "question": "When the recovery between the widening gap between the richest citizens and rest of the nation slow?",
+    "model_answer": "",
+    "correct_answers": [
+      "2008-2009"
+    ]
+  },
+  "5727f2714b864d1900164075": {
+    "question": "What impacts gender inequality in wages?",
+    "model_answer": "",
+    "correct_answers": [
+      "gender inequality in education",
+      "education"
+    ]
+  },
+  "5727f6723acd2414000df0e8": {
+    "question": "Which set of countries have higher economic mobility than the United States?",
+    "model_answer": "",
+    "correct_answers": [
+      "continental European countries",
+      "continental European"
+    ]
+  },
+  "5727f6723acd2414000df0e9": {
+    "question": "Under which policy are labor unions encouraged?",
+    "model_answer": "",
+    "correct_answers": [
+      "continental European liberalism",
+      "European liberalism"
+    ]
+  },
+  "5727fc37ff5b5019007d9a18": {
+    "question": "What effect does trade with poorer countries have on the workers in richer countries?",
+    "model_answer": "",
+    "correct_answers": [
+      "reduced wages"
+    ]
+  },
+  "5727fc37ff5b5019007d9a19": {
+    "question": "What effect does trade with richer countries have on the workers in poorer countries?",
+    "model_answer": "",
+    "correct_answers": [
+      "increased wages"
+    ]
+  },
+  "5727fc37ff5b5019007d9a1b": {
+    "question": "What has replaced lower skilled workers in the United States?",
+    "model_answer": "",
+    "correct_answers": [
+      "machine labor"
+    ]
+  },
+  "5727ff083acd2414000df1ac": {
+    "question": "What is the level of inequality in underdeveloped countries?",
+    "model_answer": "",
+    "correct_answers": [
+      "relatively equal",
+      "relatively equal distributions of wealth",
+      "low"
+    ]
+  },
+  "5727ff083acd2414000df1ae": {
+    "question": "What leads to lower income inequality?",
+    "model_answer": "",
+    "correct_answers": [
+      "redistribution mechanisms",
+      "redistribution mechanisms such as social welfare programs"
+    ]
+  },
+  "5729f24baf94a219006aa6e1": {
+    "question": "What do redistribution mechanisms lead to?",
+    "model_answer": "",
+    "correct_answers": [
+      "lower levels of inequality"
+    ]
+  },
+  "57287b322ca10214002da3c0": {
+    "question": "In what sector are jobs beginning to increase?",
+    "model_answer": "",
+    "correct_answers": [
+      "service"
+    ]
+  },
+  "57287b322ca10214002da3c1": {
+    "question": "In what sector are jobs beginning to decrease?",
+    "model_answer": "",
+    "correct_answers": [
+      "manufacturing"
+    ]
+  },
+  "5729f60caf94a219006aa6f3": {
+    "question": "In U.S. states, what happens to the life expectancy in less economically equal ones?",
+    "model_answer": "",
+    "correct_answers": [
+      "life expectancy is lower",
+      "lower"
+    ]
+  },
+  "572a070c6aef0514001551cb": {
+    "question": "Who lives no longer on average than Greeks and New Zealanders?",
+    "model_answer": "",
+    "correct_answers": [
+      "Americans"
+    ]
+  },
+  "572a070c6aef0514001551cc": {
+    "question": "How are incomes distributed in Sweden?",
+    "model_answer": "",
+    "correct_answers": [
+      "more equally",
+      "more equally distributed"
+    ]
+  },
+  "572a0c541d046914007796f3": {
+    "question": "What do conservative researchers fell should be a measure of inequality?",
+    "model_answer": "",
+    "correct_answers": [
+      "consumption"
+    ]
+  },
+  "572a0c541d046914007796f5": {
+    "question": "When was consumption inequality lower than it had been in 1986?",
+    "model_answer": "",
+    "correct_answers": [
+      "2001"
+    ]
+  },
+  "572a0d21af94a219006aa786": {
+    "question": "What does political pressure push to extend to compensate for stagnating purchasing power?",
+    "model_answer": "",
+    "correct_answers": [
+      "easier credit",
+      "easier credit to the lower and middle income earners"
+    ]
+  },
+  "572a0e0e1d04691400779708": {
+    "question": "What do high levels of inequality  prevent beyond economic prosperity?",
+    "model_answer": "",
+    "correct_answers": [
+      "quality of a country's institutions",
+      "quality of a country's institutions and high levels of education"
+    ]
+  },
+  "572a0ecb1d04691400779717": {
+    "question": "What do David Castlles-Quintana and Vicente Royuela do for a living?",
+    "model_answer": "",
+    "correct_answers": [
+      "economists"
+    ]
+  },
+  "572a1046af94a219006aa78f": {
+    "question": "What are both Branko Milanovic and Joseph Stiglitz?",
+    "model_answer": "",
+    "correct_answers": [
+      "Economist"
+    ]
+  },
+  "572a1a5c6aef051400155286": {
+    "question": "What does it take a country with high inequality longer to achieve?",
+    "model_answer": "",
+    "correct_answers": [
+      "reduction",
+      "halve poverty"
+    ]
+  },
+  "572a1ba46aef051400155292": {
+    "question": "What can it sometimes take up to 14 years to get permission to build on?",
+    "model_answer": "",
+    "correct_answers": [
+      "government land"
+    ]
+  },
+  "572a1f086aef0514001552c2": {
+    "question": "What does the current high level of population have a large impact on?",
+    "model_answer": "",
+    "correct_answers": [
+      "environmental degradation",
+      "this as well"
+    ]
+  },
+  "57284142ff5b5019007da00d": {
+    "question": "How much did Silas B. Cobb pledge to the university?",
+    "model_answer": "",
+    "correct_answers": [
+      "$100,000"
+    ]
+  },
+  "572843304b864d1900164848": {
+    "question": "In 1890, who did the university decide to team up with?",
+    "model_answer": "",
+    "correct_answers": [
+      "several regional colleges and universities",
+      "Des Moines College, Kalamazoo College, Butler University, and Stetson University"
+    ]
+  },
+  "572843304b864d190016484c": {
+    "question": "In what year did the affiliate program end?",
+    "model_answer": "",
+    "correct_answers": [
+      "1910",
+      "Several University of Chicago professors"
+    ]
+  },
+  "572847ff3acd2414000df869": {
+    "question": "In what year did student decide to occupy the president's office?",
+    "model_answer": "",
+    "correct_answers": [
+      "1962"
+    ]
+  },
+  "572847ff3acd2414000df86a": {
+    "question": "What made the student decide to occupy the president's office in protest?",
+    "model_answer": "",
+    "correct_answers": [
+      "the university's off-campus rental policies.",
+      "the university's off-campus rental policies"
+    ]
+  },
+  "572853e8ff5b5019007da18b": {
+    "question": "What guide states the Univeristy of Chicago is known for their heavy workload and academic difficulty?",
+    "model_answer": "",
+    "correct_answers": [
+      "Uni in the USA"
+    ]
+  },
+  "572861cc4b864d1900164962": {
+    "question": "Around roughly how many students enroll yearly in creative and performing arts classes?",
+    "model_answer": "",
+    "correct_answers": [
+      "Several thousand"
+    ]
+  },
+  "57286bf84b864d19001649d4": {
+    "question": "What alumni wrote \"The Closing of the American Mind\"?",
+    "model_answer": "",
+    "correct_answers": [
+      "Allan Bloom"
+    ]
+  },
+  "5728742cff5b5019007da246": {
+    "question": "What Egyptologist was also apart of the university's faculty?",
+    "model_answer": "",
+    "correct_answers": [
+      "James Henry Breasted"
+    ]
+  },
+  "5728742cff5b5019007da248": {
+    "question": "What meteorologist was also apart of the university's faculty?",
+    "model_answer": "",
+    "correct_answers": [
+      "Ted Fujita"
+    ]
+  },
+  "5728742cff5b5019007da24a": {
+    "question": "What cancer researchers were also apart of the university's faculty?",
+    "model_answer": "",
+    "correct_answers": [
+      "Charles Brenton Huggins and Janet Rowley"
+    ]
+  },
+  "572860e03acd2414000df977": {
+    "question": "What non-Chinese empire did the Yuan dynasty succeed?",
+    "model_answer": "",
+    "correct_answers": [
+      "Mongol Empire"
+    ]
+  },
+  "57286192ff5b5019007da1dd": {
+    "question": "What writing inspired the name Great Yuan?",
+    "model_answer": "",
+    "correct_answers": [
+      "the Commentaries on the Classic of Changes (I Ching)",
+      "the Commentaries on the Classic of Changes"
+    ]
+  },
+  "572872822ca10214002da377": {
+    "question": "What were the Yuan armies too weak to stop?",
+    "model_answer": "",
+    "correct_answers": [
+      "Outlaws ravaged the country",
+      "Outlaws"
+    ]
+  },
+  "57287338ff5b5019007da235": {
+    "question": "Who had Toghtogha tried to defeat?",
+    "model_answer": "",
+    "correct_answers": [
+      "the Red Turban rebels",
+      "Red Turban rebels"
+    ]
+  },
+  "572878942ca10214002da3a2": {
+    "question": "What encouraged trade under the Yuan?",
+    "model_answer": "",
+    "correct_answers": [
+      "The political unity of China and much of central Asia",
+      "political unity of China and much of central Asia",
+      "political unity"
+    ]
+  },
+  "572879574b864d1900164a15": {
+    "question": "Besides Confucianism, Buddhism, and Islam, what religions were tolerated during the Yuan?",
+    "model_answer": "",
+    "correct_answers": [
+      "Nestorianism and Roman Catholicism"
+    ]
+  },
+  "57287ccb2ca10214002da3dc": {
+    "question": "What legitimate dynasty came before the Yuan?",
+    "model_answer": "",
+    "correct_answers": [
+      "Song",
+      "Song dynasty",
+      "the Song dynasty"
+    ]
+  },
+  "57287ddf3acd2414000dfa42": {
+    "question": "Who had no real military power during the Yuan?",
+    "model_answer": "",
+    "correct_answers": [
+      "the Ministry of War",
+      "Ministry of War"
+    ]
+  },
+  "57287fec4b864d1900164a3c": {
+    "question": "Which khanates had converted to Islam?",
+    "model_answer": "",
+    "correct_answers": [
+      "western",
+      "Yuan dynasty"
+    ]
+  },
+  "57287fec4b864d1900164a3e": {
+    "question": "What was the Yuan's unofficial state religion?",
+    "model_answer": "",
+    "correct_answers": [
+      "Tibetan Buddhism"
+    ]
+  },
+  "5728848cff5b5019007da299": {
+    "question": "What did Mote think the Yuan class system really represented?",
+    "model_answer": "",
+    "correct_answers": [
+      "degrees of privilege"
+    ]
+  },
+  "5729081d3f37b31900477fad": {
+    "question": "What percentage of leukocytes do neutrophils represent?",
+    "model_answer": "",
+    "correct_answers": [
+      "50% to 60%"
+    ]
+  },
+  "5729f799af94a219006aa70a": {
+    "question": "Long-lived memory cells can remember previous encounters with what?",
+    "model_answer": "",
+    "correct_answers": [
+      "specific pathogen",
+      "pathogen",
+      "each specific pathogen"
+    ]
+  },
+  "5729fc3d1d046914007796a0": {
+    "question": "The immune system also produces what molecules in order to allow for tumor destruction by the complement system?",
+    "model_answer": "",
+    "correct_answers": [
+      "antibodies"
+    ]
+  },
+  "572a0bf96aef051400155207": {
+    "question": "What is the chemical that mediates Type 1 hypersensitivity?",
+    "model_answer": "",
+    "correct_answers": [
+      "IgE"
+    ]
+  },
+  "572a142e3f37b319004786bc": {
+    "question": "How can the deposition of compliment kill invader cells directly?",
+    "model_answer": "",
+    "correct_answers": [
+      "disrupting their plasma membrane",
+      "disrupting their plasma membrane."
+    ]
+  },
+  "57293bc91d0469140077919d": {
+    "question": "Who is the vice-chair of the IPCC?",
+    "model_answer": "",
+    "correct_answers": [
+      "Ismail El Gizouli"
+    ]
+  },
+  "57293bc91d0469140077919f": {
+    "question": "When did Pachauri resign as chair of the IPCC?",
+    "model_answer": "",
+    "correct_answers": [
+      "February 2015"
+    ]
+  },
+  "57293ca73f37b3190047815e": {
+    "question": "Who funds the IPCC's Deputy Secretary?",
+    "model_answer": "",
+    "correct_answers": [
+      "United Nations Environment Programme",
+      "UNEP"
+    ]
+  },
+  "57293d6d1d046914007791b9": {
+    "question": "How many contributing authors does an IPCC report chapter have?",
+    "model_answer": "",
+    "correct_answers": [
+      "a somewhat larger number",
+      "a somewhat larger number of \"contributing authors\""
+    ]
+  },
+  "57293e221d046914007791d6": {
+    "question": "What do increased greenhouse gases cause?",
+    "model_answer": "",
+    "correct_answers": [
+      "additional warming of the Earth's surface",
+      "warming of the Earth's surface"
+    ]
+  },
+  "57293e221d046914007791d7": {
+    "question": "How much of the greenhouse effect is due to carbon dioxide?",
+    "model_answer": "",
+    "correct_answers": [
+      "over half"
+    ]
+  },
+  "57293e221d046914007791d8": {
+    "question": "What is the scenario called in which we don't change our greenhouse gas creation practices?",
+    "model_answer": "",
+    "correct_answers": [
+      "\"business as usual\" (BAU)",
+      "enhanced greenhouse effect"
+    ]
+  },
+  "57293f353f37b3190047819c": {
+    "question": "What did Lindzen criticize about the Summary for Policymakers?",
+    "model_answer": "",
+    "correct_answers": [
+      "does not faithfully summarize the full WGI report",
+      "understates the uncertainty associated with climate models"
+    ]
+  },
+  "572940973f37b319004781a5": {
+    "question": "What did the IPCC say was mistaken?",
+    "model_answer": "",
+    "correct_answers": [
+      "the date"
+    ]
+  },
+  "572940973f37b319004781a8": {
+    "question": "What report had the correct date?",
+    "model_answer": "",
+    "correct_answers": [
+      "\"Variations of Snow and Ice in the past and at present on a Global and Regional Scale\"",
+      "the IPCC from the WWF report",
+      "the WWF report"
+    ]
+  },
+  "572941273f37b319004781ae": {
+    "question": "What direction did Watson say the mistake went in?",
+    "model_answer": "",
+    "correct_answers": [
+      "making it seem like climate change is more serious by overstating the impact",
+      "the direction of making it seem like climate change is more serious"
+    ]
+  },
+  "57294209af94a219006aa204": {
+    "question": "What reconstructions supported the 1999 paper's information?",
+    "model_answer": "",
+    "correct_answers": [
+      "Jones et al. 1998, Pollack, Huang & Shen 1998, Crowley & Lowery 2000 and Briffa 2000",
+      "Jones et al. and Briffa reconstructions",
+      "temperatures increased on the basis of documentary evidence of Medieval vineyards in England"
+    ]
+  },
+  "57294279af94a219006aa20d": {
+    "question": "What Senate committee did Singer speak to in July 2000?",
+    "model_answer": "",
+    "correct_answers": [
+      "United States Senate Committee on Commerce, Science and Transportation",
+      "Committee on Commerce, Science and Transportation"
+    ]
+  },
+  "572944e03f37b319004781e3": {
+    "question": "How many Medieval Warm Period reconstructions were used?",
+    "model_answer": "",
+    "correct_answers": [
+      "14",
+      "Ten"
+    ]
+  },
+  "572944e03f37b319004781e4": {
+    "question": "How many Medieval Warm Period reconstructions covered 1,000+ years?",
+    "model_answer": "",
+    "correct_answers": [
+      "Ten",
+      "14"
+    ]
+  },
+  "572945b11d0469140077922f": {
+    "question": "When was a study published confirming the 2001 IPCC projections?",
+    "model_answer": "",
+    "correct_answers": [
+      "1 February 2007"
+    ]
+  },
+  "572945b11d04691400779230": {
+    "question": "How did the 2001 IPCC report compare to reality for 2001-2006?",
+    "model_answer": "",
+    "correct_answers": [
+      "temperatures and sea levels have been rising at or above the maximum rates",
+      "temperatures and sea levels have been rising at or above the maximum rates proposed"
+    ]
+  },
+  "572945b11d04691400779231": {
+    "question": "How did the 2001 IPCC report compare to reality on temperature levels?",
+    "model_answer": "",
+    "correct_answers": [
+      "actual temperature rise was near the top end of the range given",
+      "temperature rise was near the top end of the range given",
+      "near the top end of the range given by IPCC's 2001 projection"
+    ]
+  },
+  "572945b11d04691400779232": {
+    "question": "How did the 2001 IPCC report compare to reality on sea levels?",
+    "model_answer": "",
+    "correct_answers": [
+      "actual sea level rise was above the top of the range",
+      "the actual sea level rise was above the top of the range"
+    ]
+  },
+  "572949306aef051400154c6b": {
+    "question": "When was the Third Assessment Report published?",
+    "model_answer": "",
+    "correct_answers": [
+      "2001"
+    ]
+  },
+  "57294baaaf94a219006aa26d": {
+    "question": "What approach did Oppenheimer advocate?",
+    "model_answer": "",
+    "correct_answers": [
+      "concurring, smaller assessments of special problems",
+      "smaller assessments of special problems instead of the large scale approach"
+    ]
+  },
+  "57294e6b1d04691400779275": {
+    "question": "What has successfully dealt with ozone depletion?",
+    "model_answer": "",
+    "correct_answers": [
+      "the Montreal Protocol",
+      "Montreal Protocol",
+      "global regulation based on the Montreal Protocol"
+    ]
+  },
+  "57294e6b1d04691400779276": {
+    "question": "What did the Kyoto Protocol try to address?",
+    "model_answer": "",
+    "correct_answers": [
+      "Climate Change"
+    ]
+  },
+  "5729517d6aef051400154cc9": {
+    "question": "What can the IPCC's report deadlines cause to be omitted?",
+    "model_answer": "",
+    "correct_answers": [
+      "significant new evidence or events that change our understanding of climate science",
+      "significant new evidence or events that change our understanding"
+    ]
+  },
+  "5729517d6aef051400154cca": {
+    "question": "Who is seen as the ultimate climate change authority?",
+    "model_answer": "",
+    "correct_answers": [
+      "IPCC",
+      "the IPCC"
+    ]
+  },
+  "572951f16aef051400154ccf": {
+    "question": "Where was the Feb 2010 call for change published?",
+    "model_answer": "",
+    "correct_answers": [
+      "the journal Nature"
+    ]
+  },
+  "572951f16aef051400154cd0": {
+    "question": "What was one proposal to let the IPCC respond to new evidence faster?",
+    "model_answer": "",
+    "correct_answers": [
+      "turning the whole climate science assessment process into a moderated \"living\" Wikipedia-IPCC"
+    ]
+  },
+  "572951f16aef051400154cd1": {
+    "question": "How was it suggested that the IPCC avoid political problems?",
+    "model_answer": "",
+    "correct_answers": [
+      "remove government oversight from its processes",
+      "remove government oversight"
+    ]
+  },
+  "57296d571d04691400779413": {
+    "question": "What is the only divisor besides 1 that a prime number can have?",
+    "model_answer": "",
+    "correct_answers": [
+      "itself"
+    ]
+  },
+  "57296d571d04691400779414": {
+    "question": "What are numbers greater than 1 that can be divided by 3 or more numbers called?",
+    "model_answer": "",
+    "correct_answers": [
+      "composite number",
+      "primes"
+    ]
+  },
+  "57296d571d04691400779417": {
+    "question": "Why must one be excluded in order to preserve the uniqueness of the fundamental theorem?",
+    "model_answer": "",
+    "correct_answers": [
+      "because one can include arbitrarily many instances of 1 in any factorization",
+      "one can include arbitrarily many instances of 1 in any factorization",
+      "can include arbitrarily many instances of 1 in any factorization"
+    ]
+  },
+  "572970c11d04691400779466": {
+    "question": "What theorem states that the probability that a number n is prime is inversely proportional to its logarithm?",
+    "model_answer": "",
+    "correct_answers": [
+      "the prime number theorem",
+      "prime number theorem",
+      "prime number"
+    ]
+  },
+  "572973f76aef051400154f0a": {
+    "question": " Any even number larger than what cannot be considered prime?",
+    "model_answer": "",
+    "correct_answers": [
+      "2"
+    ]
+  },
+  "572973f76aef051400154f0d": {
+    "question": "Besides 1,3 and 7, what other number must all primes greater than 5 end with?",
+    "model_answer": "",
+    "correct_answers": [
+      "9"
+    ]
+  },
+  "572973f76aef051400154f0e": {
+    "question": "What type of numbers are always multiples of 2?",
+    "model_answer": "",
+    "correct_answers": [
+      "even numbers",
+      "even"
+    ]
+  },
+  "57297781af94a219006aa4a3": {
+    "question": "Which theorem would be invalid if the number 1 were considered prime?",
+    "model_answer": "",
+    "correct_answers": [
+      "Euclid's fundamental theorem of arithmetic",
+      "arithmetic"
+    ]
+  },
+  "57297781af94a219006aa4a4": {
+    "question": "The sieve of Eratosthenes would not be valid if what were true?",
+    "model_answer": "",
+    "correct_answers": [
+      "if 1 were considered a prime",
+      "1 were considered a prime"
+    ]
+  },
+  "57297ed93f37b3190047845f": {
+    "question": "What is one straightforward case of a probabilistic test?",
+    "model_answer": "",
+    "correct_answers": [
+      "the Fermat primality test,",
+      "Fermat primality test",
+      "the Fermat primality test"
+    ]
+  },
+  "572982e76aef051400154f96": {
+    "question": "In what interval are some of the greatest primes without a distinct form discovered in?",
+    "model_answer": "",
+    "correct_answers": [
+      "[256kn + 1, 256k(n + 1) − 1]",
+      "[256kn + 1, 256k(n + 1) − 1]."
+    ]
+  },
+  "572987e46aef051400154fa2": {
+    "question": "What is another way to state the condition that infinitely many primes can exist only if a and q are coprime?",
+    "model_answer": "",
+    "correct_answers": [
+      "their greatest common divisor is one",
+      "greatest common divisor is one"
+    ]
+  },
+  "572987e46aef051400154fa6": {
+    "question": "If q=9 and a=1,2,4,5,7, or 8, how many primes would be in a progression?",
+    "model_answer": "",
+    "correct_answers": [
+      "infinitely many prime numbers",
+      "infinitely many",
+      "infinite"
+    ]
+  },
+  "57298ef11d0469140077952f": {
+    "question": "What does the Riemann hypothesis state the source of irregularity in the distribution of points comes from?",
+    "model_answer": "",
+    "correct_answers": [
+      "random noise"
+    ]
+  },
+  "57298ef11d04691400779530": {
+    "question": "What type of prime distribution does the Riemann hypothesis propose is also true for short intervals near X?",
+    "model_answer": "",
+    "correct_answers": [
+      "asymptotic distribution",
+      "asymptotic"
+    ]
+  },
+  "572991943f37b319004784a1": {
+    "question": "What conjecture holds that there is an infinite amount of twin primes?",
+    "model_answer": "",
+    "correct_answers": [
+      "twin prime conjecture",
+      "Polignac's"
+    ]
+  },
+  "572991943f37b319004784a5": {
+    "question": "What conjecture holds that there are always a minimum of 4 primes  between the squares of consecutive primes greater than 2?",
+    "model_answer": "",
+    "correct_answers": [
+      "Brocard's conjecture",
+      "Brocard's"
+    ]
+  },
+  "572995d46aef051400154fe9": {
+    "question": "According to Fermat's theorem, what period does 1/p always have assuming p is prime that is not 2 or 5?",
+    "model_answer": "",
+    "correct_answers": [
+      "p − 1",
+      "p − 1 or a divisor of p − 1"
+    ]
+  },
+  "57299c2c6aef051400155024": {
+    "question": "Under what condition is an element irreducible?",
+    "model_answer": "",
+    "correct_answers": [
+      "cannot be written as a product of two ring elements that are not units",
+      "not a unit and cannot be written as a product of two ring elements that are not units.",
+      "it is not a unit and cannot be written as a product of two ring elements that are not units"
+    ]
+  },
+  "57299d1c1d04691400779584": {
+    "question": "What do a and b represent in a Gaussian integer expression? ",
+    "model_answer": "",
+    "correct_answers": [
+      "arbitrary integers"
+    ]
+  },
+  "5729a03f1d04691400779594": {
+    "question": "What does factorization of prime ideals approximate?",
+    "model_answer": "",
+    "correct_answers": [
+      "ramification in geometry",
+      "ramification"
+    ]
+  },
+  "5729a26d6aef05140015505b": {
+    "question": "To what may general global fields be transferred to or from?",
+    "model_answer": "",
+    "correct_answers": [
+      "completed (or local) fields",
+      "the completed (or local) fields"
+    ]
+  },
+  "572f5533a23a5019007fc55c": {
+    "question": "Where does the Rhine empty?",
+    "model_answer": "",
+    "correct_answers": [
+      "North Sea",
+      "the North Sea in the Netherlands"
+    ]
+  },
+  "572f5533a23a5019007fc55e": {
+    "question": "What river is larger than the Rhine?",
+    "model_answer": "",
+    "correct_answers": [
+      "Danube",
+      "the Danube"
+    ]
+  },
+  "572fe1d404bcaa1900d76e3a": {
+    "question": "What country does the Rhine empty?",
+    "model_answer": "",
+    "correct_answers": [
+      "Netherlands",
+      "Germany"
+    ]
+  },
+  "572f55e8a23a5019007fc56c": {
+    "question": "What is the French name for the Rhine? ",
+    "model_answer": "",
+    "correct_answers": [
+      "Rhin"
+    ]
+  },
+  "572f55e8a23a5019007fc56d": {
+    "question": "What is the Proto-Germanic adaptation of the name of the Rhine?",
+    "model_answer": "",
+    "correct_answers": [
+      "Rīnaz",
+      "*Rīnaz"
+    ]
+  },
+  "572f55e8a23a5019007fc56e": {
+    "question": "What century did the name of the Rhine come from?",
+    "model_answer": "",
+    "correct_answers": [
+      "1st century BC",
+      "1st",
+      "Roman-era"
+    ]
+  },
+  "572fe288a23a5019007fcada": {
+    "question": "What is the Rhine called in Dutch?",
+    "model_answer": "",
+    "correct_answers": [
+      "Rijn"
+    ]
+  },
+  "572fe288a23a5019007fcadb": {
+    "question": "How was the Dutch name for the Rhine originally spelled? ",
+    "model_answer": "",
+    "correct_answers": [
+      "Rhijn"
+    ]
+  },
+  "572f567cb2c2fd1400568042": {
+    "question": "Where does the Rhine river's measurement end?",
+    "model_answer": "",
+    "correct_answers": [
+      "Hoek van Holland",
+      "(1036.20 km)"
+    ]
+  },
+  "572fe4a304bcaa1900d76e58": {
+    "question": "What did the Rhine branch off to form in Austria?",
+    "model_answer": "",
+    "correct_answers": [
+      "small islands",
+      "small islands by precipitating sediments",
+      "islands"
+    ]
+  },
+  "572fe4a304bcaa1900d76e59": {
+    "question": "What is the Almannic dialect to describe the islands outside in Austria?",
+    "model_answer": "",
+    "correct_answers": [
+      "Isel",
+      "\"Isel\""
+    ]
+  },
+  "572f5875947a6a140053c89b": {
+    "question": "What is the lower canal regulation of the Rhine?",
+    "model_answer": "",
+    "correct_answers": [
+      "Fußach"
+    ]
+  },
+  "572f5875947a6a140053c89e": {
+    "question": "What is expected with the continuous input of sediment into the Dornbirner Ach?",
+    "model_answer": "",
+    "correct_answers": [
+      "silt",
+      "silt up the lake",
+      "the continuous input of sediment into the lake will silt up the lake"
+    ]
+  },
+  "572f59b4a23a5019007fc588": {
+    "question": "Where does the cold and warm water meet the warm water?",
+    "model_answer": "",
+    "correct_answers": [
+      "Rheinbrech",
+      "Upper Lake"
+    ]
+  },
+  "572f59b4a23a5019007fc589": {
+    "question": "What is the Island off of the German shore of the Rhine that this warm and cold water meet?",
+    "model_answer": "",
+    "correct_answers": [
+      "Lindau"
+    ]
+  },
+  "572f59b4a23a5019007fc58b": {
+    "question": "How much of the lake connecting with the Rhine can you see from the German islands?",
+    "model_answer": "",
+    "correct_answers": [
+      "entire length",
+      "the entire length of the lake",
+      "entire length of the lake"
+    ]
+  },
+  "572fe92204bcaa1900d76e95": {
+    "question": "Where does the cold water mix with Lake Constance?",
+    "model_answer": "",
+    "correct_answers": [
+      "Rheinbrech",
+      "Upper Lake",
+      "Rheinrinne"
+    ]
+  },
+  "572feddda23a5019007fcb5c": {
+    "question": "When did the Rhine Straightening program begin?",
+    "model_answer": "",
+    "correct_answers": [
+      "19th Century",
+      "19th"
+    ]
+  },
+  "572ff293947a6a140053ce54": {
+    "question": "What country has the most factories that pollute the Rhine?",
+    "model_answer": "",
+    "correct_answers": [
+      "Switzerland",
+      "Duisburg"
+    ]
+  },
+  "572f7588947a6a140053c984": {
+    "question": "What city has the biggest port in Germany?",
+    "model_answer": "",
+    "correct_answers": [
+      "Duisburg"
+    ]
+  },
+  "572f76d1b2c2fd1400568153": {
+    "question": "What is the Dutch name for the Rhine?",
+    "model_answer": "",
+    "correct_answers": [
+      "Rijn"
+    ]
+  },
+  "572ff4ca04bcaa1900d76f24": {
+    "question": "Which direction does two thirds of the Rhine flow outside of Germany?",
+    "model_answer": "",
+    "correct_answers": [
+      "west"
+    ]
+  },
+  "572ff4ca04bcaa1900d76f25": {
+    "question": "Where does two thirds of the Rhine flow outside of Germany?",
+    "model_answer": "",
+    "correct_answers": [
+      "Waal",
+      "through the Waal"
+    ]
+  },
+  "572ff4ca04bcaa1900d76f26": {
+    "question": "What does the Rhine merge with outside of Germany?",
+    "model_answer": "",
+    "correct_answers": [
+      "Meuse"
+    ]
+  },
+  "572f7b33947a6a140053c9a3": {
+    "question": "The Rhine redistributes into the Ijssel and what other body?",
+    "model_answer": "",
+    "correct_answers": [
+      "Nederrijn"
+    ]
+  },
+  "572f7b33947a6a140053c9a5": {
+    "question": "Where does the Lek join? ",
+    "model_answer": "",
+    "correct_answers": [
+      "Noord River",
+      "Nieuwe Maas"
+    ]
+  },
+  "572ff5fcb2c2fd1400568657": {
+    "question": "What is the name for the smaller streams along the region northern Germany?",
+    "model_answer": "",
+    "correct_answers": [
+      "Rijn"
+    ]
+  },
+  "572ff5fcb2c2fd140056865b": {
+    "question": "What part of the Rhine flows west at Katwijk?",
+    "model_answer": "",
+    "correct_answers": [
+      "Old Rhine",
+      "Oude Rijn"
+    ]
+  },
+  "572ff673b2c2fd140056866b": {
+    "question": "What is the nickname for the Delta in the Netherlands?",
+    "model_answer": "",
+    "correct_answers": [
+      "Rhine Delta"
+    ]
+  },
+  "572ff7ab04bcaa1900d76f52": {
+    "question": "How many main flows are branched off from the Nederrijn?",
+    "model_answer": "",
+    "correct_answers": [
+      "three"
+    ]
+  },
+  "572ff935b2c2fd140056869d": {
+    "question": "What does a high tide risk near lands? ",
+    "model_answer": "",
+    "correct_answers": [
+      "tear huge areas of land into the sea.",
+      "tidal currents",
+      "tear huge areas of land into the sea"
+    ]
+  },
+  "572ffb02b2c2fd14005686ba": {
+    "question": "The Rhine and what other river drained the northern flanks of the alps?",
+    "model_answer": "",
+    "correct_answers": [
+      "Danube"
+    ]
+  },
+  "572ffd75b2c2fd14005686e9": {
+    "question": "Besides the North Sea and the Irish Channel, what else was lowered in the last cold phase?",
+    "model_answer": "",
+    "correct_answers": [
+      "English Channel"
+    ]
+  },
+  "572fff45947a6a140053cf2a": {
+    "question": "What is the term for wind-blown dust in a tundra?",
+    "model_answer": "",
+    "correct_answers": [
+      "loess"
+    ]
+  },
+  "572fffb404bcaa1900d76fef": {
+    "question": "When did Europe slowly begin to warm up from the last Ice Age?",
+    "model_answer": "",
+    "correct_answers": [
+      "22,000 years ago"
+    ]
+  },
+  "572fffb404bcaa1900d76ff1": {
+    "question": "Where did the discharge from glaciers go in Europe in the last Ice Age?",
+    "model_answer": "",
+    "correct_answers": [
+      "Rhine",
+      "the Rhine"
+    ]
+  },
+  "572fffb404bcaa1900d76ff3": {
+    "question": "When was Europe fully forested and recovered from the last Ice Age?",
+    "model_answer": "",
+    "correct_answers": [
+      "9000 BP"
+    ]
+  },
+  "573003dd947a6a140053cf43": {
+    "question": "Why did natural sedimentation by the Rhine compensate the transgression bby the sea?",
+    "model_answer": "",
+    "correct_answers": [
+      "Rates of sea-level rise",
+      "sea-level rise had dropped",
+      "Rates of sea-level rise had dropped"
+    ]
+  },
+  "573003dd947a6a140053cf44": {
+    "question": "How long has the Rhine coastline been in the same location?",
+    "model_answer": "",
+    "correct_answers": [
+      "last 7000 years",
+      "7000 years"
+    ]
+  },
+  "5730042804bcaa1900d77013": {
+    "question": "What country did the Rhine continue to rise during the holocene?",
+    "model_answer": "",
+    "correct_answers": [
+      "Netherlands"
+    ]
+  },
+  "5730069004bcaa1900d7702e": {
+    "question": "What do the Waal and the Nederrijn-Lek discharge throguh?",
+    "model_answer": "",
+    "correct_answers": [
+      "Meuse estuary"
+    ]
+  },
+  "5730069004bcaa1900d77030": {
+    "question": "What did the Zuider Zee brackish lagoon change into?",
+    "model_answer": "",
+    "correct_answers": [
+      "freshwater lake"
+    ]
+  },
+  "57300888b2c2fd1400568778": {
+    "question": "What was the Colonia Agrippina's original name?",
+    "model_answer": "",
+    "correct_answers": [
+      "Ubiorum",
+      "oppidum Ubiorum"
+    ]
+  },
+  "57300c67947a6a140053cff1": {
+    "question": "Who stated a change of the length of the Rhine?",
+    "model_answer": "",
+    "correct_answers": [
+      "Knaurs Lexikon"
+    ]
+  },
+  "57300c67947a6a140053cff3": {
+    "question": "Why was the Rhine measurement changed? ",
+    "model_answer": "",
+    "correct_answers": [
+      "typographical error",
+      "a typographical error"
+    ]
+  },
+  "57300c68947a6a140053cff4": {
+    "question": "When was the Rhine measurement corrected back to the original?",
+    "model_answer": "",
+    "correct_answers": [
+      "2010"
+    ]
+  },
+  "572fad30a23a5019007fc86e": {
+    "question": "What campaigh did the Scottish National Party (SNP) run?",
+    "model_answer": "",
+    "correct_answers": [
+      "\"It's Scotland's oil\"",
+      "It's Scotland's oil"
+    ]
+  },
+  "572fbea404bcaa1900d76c5e": {
+    "question": "How many members in the seats of the Scottish Parliament are members of the Scottish Government?",
+    "model_answer": "",
+    "correct_answers": [
+      "2"
+    ]
+  },
+  "572fbfa504bcaa1900d76c73": {
+    "question": "Which month is the first in the year Parliament takes a two week vacation?",
+    "model_answer": "",
+    "correct_answers": [
+      "April"
+    ]
+  },
+  "572fc043a23a5019007fc95d": {
+    "question": "What day of the week does the Time for Reflection take place?",
+    "model_answer": "",
+    "correct_answers": [
+      "Wednesdays"
+    ]
+  },
+  "572fc5a1947a6a140053cc8d": {
+    "question": "What happens if a member doesn't vote the party line?",
+    "model_answer": "",
+    "correct_answers": [
+      "deselected as official party candidates during future elections",
+      "deselected as official party candidates"
+    ]
+  },
+  "572fc659b2c2fd140056844a": {
+    "question": "Who contributes to Members Business in addition to the proposer?",
+    "model_answer": "",
+    "correct_answers": [
+      "other members"
+    ]
+  },
+  "572fc659b2c2fd140056844b": {
+    "question": "What does the minister who was the catalyst of the Members Business do by speaking after everyone else?",
+    "model_answer": "",
+    "correct_answers": [
+      "winds up",
+      "\"winds up\" the debate"
+    ]
+  },
+  "572fc6f204bcaa1900d76cf8": {
+    "question": "Taking evidence from witnesses is one of committees' what?",
+    "model_answer": "",
+    "correct_answers": [
+      "principal role"
+    ]
+  },
+  "572fc6f204bcaa1900d76cf9": {
+    "question": "Where might committees meet outside of Parliament?",
+    "model_answer": "",
+    "correct_answers": [
+      "other locations throughout Scotland"
+    ]
+  },
+  "572fc78d04bcaa1900d76d0a": {
+    "question": "What type of committee is set down under the SP's standing orders?",
+    "model_answer": "",
+    "correct_answers": [
+      "Mandatory",
+      "Mandatory Committees"
+    ]
+  },
+  "572fc80b04bcaa1900d76d14": {
+    "question": "What is the Scottish Parliament currently in the fourth of?",
+    "model_answer": "",
+    "correct_answers": [
+      "Session"
+    ]
+  },
+  "572fc8a904bcaa1900d76d1f": {
+    "question": "What is set up to scrutinize private bills submitted by party outsiders?",
+    "model_answer": "",
+    "correct_answers": [
+      "type of committee",
+      "committee"
+    ]
+  },
+  "572fc8a904bcaa1900d76d21": {
+    "question": "Who decides how land or property is allowed to be used?",
+    "model_answer": "",
+    "correct_answers": [
+      "Scottish Government.",
+      "Committees",
+      "Private Bill Committees"
+    ]
+  },
+  "572fcb6da23a5019007fc9f1": {
+    "question": "Where are reserved matters stated in the Scotland Act?",
+    "model_answer": "",
+    "correct_answers": [
+      "Schedule 5"
+    ]
+  },
+  "572fcb6da23a5019007fc9f3": {
+    "question": "Why do police and fire services fall under the purview of the Scottish Parliament?",
+    "model_answer": "",
+    "correct_answers": [
+      "automatically devolved",
+      "not specifically reserved",
+      "All matters that are not specifically reserved are automatically devolved to the Scottish Parliament"
+    ]
+  },
+  "572fcb6da23a5019007fc9f4": {
+    "question": "How much can the SP alter income tax in Scotland?",
+    "model_answer": "",
+    "correct_answers": [
+      "up to 3 pence in the pound"
+    ]
+  },
+  "572fcc43b2c2fd140056847e": {
+    "question": "Issues dealt with at Westminster are not ones who is able to deal with?",
+    "model_answer": "",
+    "correct_answers": [
+      "Scottish Parliament",
+      "The Scottish Parliament"
+    ]
+  },
+  "572fcc43b2c2fd140056847f": {
+    "question": "Where are issues like abortion and drug policy legislated on?",
+    "model_answer": "",
+    "correct_answers": [
+      "Westminster"
+    ]
+  },
+  "572fcc43b2c2fd1400568480": {
+    "question": "Most aspects of transport safety is a subject dealt with by whom?",
+    "model_answer": "",
+    "correct_answers": [
+      "UK Government ministers",
+      "Westminster"
+    ]
+  },
+  "572fcd86947a6a140053ccdc": {
+    "question": "An MSP may introduce a bill as what?",
+    "model_answer": "",
+    "correct_answers": [
+      "a private member",
+      "private member"
+    ]
+  },
+  "572fce13a23a5019007fca13": {
+    "question": "What do statements from the PO and member in charge of the bill also indicate?",
+    "model_answer": "",
+    "correct_answers": [
+      "whether the bill is within the legislative competence of the Parliament"
+    ]
+  },
+  "572fd264b2c2fd14005684a9": {
+    "question": "Who does the Presiding Officer submit the final bill to?",
+    "model_answer": "",
+    "correct_answers": [
+      "the Monarch",
+      "Monarch"
+    ]
+  },
+  "572fd264b2c2fd14005684aa": {
+    "question": "Why is the final bill passed to the Monarch?",
+    "model_answer": "",
+    "correct_answers": [
+      "royal assent"
+    ]
+  },
+  "572fd47fa23a5019007fca55": {
+    "question": "What party forms the Scottish Parliament?",
+    "model_answer": "",
+    "correct_answers": [
+      "hold the majority of seats",
+      "The party, or parties, that hold the majority of seats in the Parliament"
+    ]
+  },
+  "572fd47fa23a5019007fca56": {
+    "question": "Who is elected at the beginning of each term?",
+    "model_answer": "",
+    "correct_answers": [
+      "First Minister",
+      "a First Minister"
+    ]
+  },
+  "572fd47fa23a5019007fca57": {
+    "question": "Who is eligible to toss their name in the hat to be First Minister?",
+    "model_answer": "",
+    "correct_answers": [
+      "Any member"
+    ]
+  },
+  "572fd6aa04bcaa1900d76d9f": {
+    "question": "What day of the week are general elections held?",
+    "model_answer": "",
+    "correct_answers": [
+      "Thursday"
+    ]
+  },
+  "572fd6aa04bcaa1900d76da1": {
+    "question": "Who may change the date by up to a month, on the proposal of the PO?",
+    "model_answer": "",
+    "correct_answers": [
+      "the Monarch",
+      "Monarch"
+    ]
+  },
+  "572fd8efb2c2fd14005684fd": {
+    "question": "Why do the island archipelagos comprise a smaller number of electors?",
+    "model_answer": "",
+    "correct_answers": [
+      "dispersed population and distance",
+      "their dispersed population and distance from the Scottish Parliament in Edinburgh"
+    ]
+  },
+  "572fdb17b2c2fd1400568520": {
+    "question": "Members of which organizations are disqualified from sitting in the SP as elected MSPs?",
+    "model_answer": "",
+    "correct_answers": [
+      "police and the armed forces",
+      "the police and the armed forces"
+    ]
+  },
+  "572fdb17b2c2fd1400568521": {
+    "question": "What act sets the term for judging the boundaries of sanity to which individuals wishing to sit on the SP must adhere?",
+    "model_answer": "",
+    "correct_answers": [
+      "Mental Health (Care and Treatment) (Scotland) Act 2003"
+    ]
+  },
+  "572fdbb004bcaa1900d76ddb": {
+    "question": "By how much did Labour lead Lain Gray retain East Lothian?",
+    "model_answer": "",
+    "correct_answers": [
+      "151 votes"
+    ]
+  },
+  "572fdc34a23a5019007fca97": {
+    "question": "Who congratulated the SNP while vowing to campaign against their referendum?",
+    "model_answer": "",
+    "correct_answers": [
+      "Cameron"
+    ]
+  },
+  "572ff760b2c2fd1400568677": {
+    "question": "What process do moderate and reformist Islamists work within the boundaries of?",
+    "model_answer": "",
+    "correct_answers": [
+      "democratic",
+      "democratic process"
+    ]
+  },
+  "572ff760b2c2fd1400568678": {
+    "question": "Where does Hamas originate?",
+    "model_answer": "",
+    "correct_answers": [
+      "Palestine"
+    ]
+  },
+  "572ff760b2c2fd140056867a": {
+    "question": "What do radical Islamist organizations reject entirely?",
+    "model_answer": "",
+    "correct_answers": [
+      "democracy"
+    ]
+  },
+  "572ff86004bcaa1900d76f65": {
+    "question": "What exists between fundamentalist Islamism and reformist Islamism?",
+    "model_answer": "",
+    "correct_answers": [
+      "major division",
+      "division"
+    ]
+  },
+  "572ff932a23a5019007fcbd7": {
+    "question": "The idea that Islam can be apolitical isn't able to be embraced by whom?",
+    "model_answer": "",
+    "correct_answers": [
+      "its supporters",
+      "Scholars and observers",
+      "Islamism"
+    ]
+  },
+  "572ffbaa947a6a140053cee6": {
+    "question": "When did Western governments support fledgling Islamists?",
+    "model_answer": "",
+    "correct_answers": [
+      "During the 1970s",
+      "the 1970s",
+      "1970s"
+    ]
+  },
+  "572ffbaa947a6a140053cee8": {
+    "question": "Western governments considered Islamists to be the lesser of two evils when compared to whom?",
+    "model_answer": "",
+    "correct_answers": [
+      "leftist/communist/nationalist insurgents/opposition",
+      "communist"
+    ]
+  },
+  "572ffbaab2c2fd14005686cd": {
+    "question": "What did the non-Afghan veterans returning home have in addition to their prestige?",
+    "model_answer": "",
+    "correct_answers": [
+      "considerable impact",
+      "experience, ideology, and weapons"
+    ]
+  },
+  "572ffd9e04bcaa1900d76fca": {
+    "question": "Conservative Islam classifies Muslims who follow Shia interpretation as what?",
+    "model_answer": "",
+    "correct_answers": [
+      "infidels"
+    ]
+  },
+  "57300e2604bcaa1900d770bb": {
+    "question": "Who stated he wanted Israel to vanish?",
+    "model_answer": "",
+    "correct_answers": [
+      "President Mahmoud Ahmadinejad"
+    ]
+  },
+  "57300f8504bcaa1900d770d1": {
+    "question": "What did the Gulf War inadvertently do in the early 1990s?",
+    "model_answer": "",
+    "correct_answers": [
+      "worked to radicalize the Islamist movement",
+      "radicalize the Islamist movement"
+    ]
+  },
+  "57300f8504bcaa1900d770d4": {
+    "question": "What monarchy did western troops protect?",
+    "model_answer": "",
+    "correct_answers": [
+      "Saudi"
+    ]
+  },
+  "573011de04bcaa1900d770f9": {
+    "question": "Whose ideas became increasingly radical during his imprisonment? ",
+    "model_answer": "",
+    "correct_answers": [
+      "Qutb's",
+      "Qutb"
+    ]
+  },
+  "573011de04bcaa1900d770fd": {
+    "question": "When had the Brotherhood renounced violence as a means of achieving its goals?",
+    "model_answer": "",
+    "correct_answers": [
+      "By the 1970s",
+      "the 1970s",
+      "1970s"
+    ]
+  },
+  "573027d6a23a5019007fcea0": {
+    "question": "Who did the NIF regime harbor prior to 9/11?",
+    "model_answer": "",
+    "correct_answers": [
+      "Osama bin Laden"
+    ]
+  },
+  "573027d6a23a5019007fcea1": {
+    "question": "What did the NIF try to unify Islamist opposition against?",
+    "model_answer": "",
+    "correct_answers": [
+      "American attack on Iraq",
+      "the American attack on Iraq"
+    ]
+  },
+  "573028fa04bcaa1900d77289": {
+    "question": "What did the civil war leave the state of Afghanistan's economy in?",
+    "model_answer": "",
+    "correct_answers": [
+      "one of the poorest countries on earth"
+    ]
+  },
+  "57302a3aa23a5019007fced2": {
+    "question": "What did the Taliban want to subject the entire country to?",
+    "model_answer": "",
+    "correct_answers": [
+      "Sharia",
+      "an idealized and systematized version of conservative tribal village customs"
+    ]
+  },
+  "57302bd0b2c2fd14005689de": {
+    "question": "How many people did the Islamic State control the territory of as of March 2015?",
+    "model_answer": "",
+    "correct_answers": [
+      "ten million"
+    ]
+  },
+  "57302cd004bcaa1900d772da": {
+    "question": "Why did al-Qaeda tell ISIL to take a hike?",
+    "model_answer": "",
+    "correct_answers": [
+      "notorious intransigence",
+      "its failure to consult and \"notorious intransigence\""
+    ]
+  },
+  "57302cd004bcaa1900d772db": {
+    "question": "What has the United Nations designed ISIL?",
+    "model_answer": "",
+    "correct_answers": [
+      "a terrorist organisation",
+      "terrorist organisation"
+    ]
+  },
+  "57303048947a6a140053d256": {
+    "question": "Who called for an agency to be created to be solely focused at undermining the Islamism ideology?",
+    "model_answer": "",
+    "correct_answers": [
+      "Christian Whiton",
+      "George W. Bush"
+    ]
+  },
+  "57306797396df919000960f1": {
+    "question": "Which is more costly, formal, or informal imperialism?",
+    "model_answer": "",
+    "correct_answers": [
+      "informal",
+      "Informal rule is generally less costly",
+      "Informal rule",
+      "formal"
+    ]
+  },
+  "573081c2069b531400832133": {
+    "question": "The amount of land a country controls is its greatest what?",
+    "model_answer": "",
+    "correct_answers": [
+      "distinction"
+    ]
+  },
+  "573081c2069b531400832134": {
+    "question": "Western Imperialism divided the globe according to which theory?",
+    "model_answer": "",
+    "correct_answers": [
+      "the world systems theory",
+      "world systems theory",
+      "world systems theory."
+    ]
+  },
+  "5730876a396df9190009617a": {
+    "question": "what is the most controversial aspect of imperialism?",
+    "model_answer": "",
+    "correct_answers": [
+      "empire-building",
+      "defense and justification of empire-building",
+      "is the defense and justification of empire-building based on seemingly rational grounds",
+      "defense and justification of empire-building based on seemingly rational grounds"
+    ]
+  },
+  "5730876a396df9190009617b": {
+    "question": " J. A. Hobson wanted which races to develop the world?",
+    "model_answer": "",
+    "correct_answers": [
+      "highest 'social efficiency'",
+      "the races of highest 'social efficiency'\"",
+      "of highest 'social efficiency",
+      "races of highest 'social efficiency'\""
+    ]
+  },
+  "573088da069b53140083216c": {
+    "question": "Where was Halford Mackinder born?",
+    "model_answer": "",
+    "correct_answers": [
+      "Britain"
+    ]
+  },
+  "57308ddc396df919000961a5": {
+    "question": "What law justified British imperialism?",
+    "model_answer": "",
+    "correct_answers": [
+      "Terra nullius"
+    ]
+  },
+  "57308ddc396df919000961a6": {
+    "question": "What were the native inhabitants of Australia called?",
+    "model_answer": "",
+    "correct_answers": [
+      "Aboriginal",
+      "Aboriginal inhabitants"
+    ]
+  },
+  "57308ddc396df919000961a8": {
+    "question": "Terra Nullius is a Latin expression meaning what in English?",
+    "model_answer": "",
+    "correct_answers": [
+      "empty land",
+      "'empty land'"
+    ]
+  },
+  "5730909d8ab72b1400f9c58b": {
+    "question": "What provided an incentive to western empires to colonize Africa?",
+    "model_answer": "",
+    "correct_answers": [
+      "blank spaces on contemporary maps",
+      "fill in blank spaces on contemporary maps",
+      "maps",
+      "blank space"
+    ]
+  },
+  "5730909d8ab72b1400f9c58e": {
+    "question": "Who besides the british colonized Africa?",
+    "model_answer": "",
+    "correct_answers": [
+      "French"
+    ]
+  },
+  "573092088ab72b1400f9c598": {
+    "question": "Which is older the British Empire or the Ethiopian Empire?",
+    "model_answer": "",
+    "correct_answers": [
+      "Ethiopian Empire",
+      "the Ethiopian Empire",
+      "Ethiopian"
+    ]
+  },
+  "57309446396df919000961b9": {
+    "question": "What were European countries doing during the 1700's?",
+    "model_answer": "",
+    "correct_answers": [
+      "colonizing",
+      "process of colonizing, influencing, and annexing other parts of the world",
+      "colonizing, influencing, and annexing other parts of the world in order to gain political power",
+      "colonizing, influencing, and annexing"
+    ]
+  },
+  "57309446396df919000961bb": {
+    "question": "When did the age of imperialism end?",
+    "model_answer": "",
+    "correct_answers": [
+      "middle of the 20th century",
+      "20th century",
+      "20th century,"
+    ]
+  },
+  "57309564069b5314008321a9": {
+    "question": "Who was made rich and prosperous prior to World War 1",
+    "model_answer": "",
+    "correct_answers": [
+      "many imperial powers",
+      "imperial powers"
+    ]
+  },
+  "573099ee8ab72b1400f9c5e0": {
+    "question": "Which region invented the machine gun?",
+    "model_answer": "",
+    "correct_answers": [
+      "European",
+      "Europe"
+    ]
+  },
+  "57309ef18ab72b1400f9c603": {
+    "question": "Hobson argued that imperialism was an international what?",
+    "model_answer": "",
+    "correct_answers": [
+      "disease"
+    ]
+  },
+  "57309ef18ab72b1400f9c604": {
+    "question": "How did Hobson argue to rid the world of imperialism?",
+    "model_answer": "",
+    "correct_answers": [
+      "taxation",
+      "removing its economic foundation",
+      "domestic social reforms",
+      "removing its economic foundation."
+    ]
+  },
+  "5730a314069b5314008321ee": {
+    "question": "What was a similar view about the Asian continent called?",
+    "model_answer": "",
+    "correct_answers": [
+      "orientalism"
+    ]
+  },
+  "5730a4d02461fd1900a9cf2c": {
+    "question": "When did French Republicans back building the French empire?",
+    "model_answer": "",
+    "correct_answers": [
+      "when Germany started to build her own",
+      "Germany started to build her own colonial empire",
+      "when Germany started to build her own colonial empire",
+      "when Germany started to build her own colonial empire."
+    ]
+  },
+  "5730a951069b531400832214": {
+    "question": "What did France offer that was rare by imperial standards?",
+    "model_answer": "",
+    "correct_answers": [
+      "assimilation",
+      "Full citizenship rights"
+    ]
+  },
+  "5730a951069b531400832217": {
+    "question": "Where did the French send a large number of settlers?",
+    "model_answer": "",
+    "correct_answers": [
+      "Algeria"
+    ]
+  },
+  "5730aa52069b531400832220": {
+    "question": "Where did France win a war in the 1950's",
+    "model_answer": "",
+    "correct_answers": [
+      "Algeria"
+    ]
+  },
+  "5730ab63396df91900096262": {
+    "question": "By when did the Germanic tribes conquer the Celtic peoples?",
+    "model_answer": "",
+    "correct_answers": [
+      "800 CE",
+      "in late antiquity",
+      "late antiquity",
+      "by 800 CE"
+    ]
+  },
+  "5730aef38ab72b1400f9c682": {
+    "question": "Besides Africa, where did Germany have imperial interests?",
+    "model_answer": "",
+    "correct_answers": [
+      "the South Pacific",
+      "South Pacific"
+    ]
+  },
+  "5730b255396df919000962b4": {
+    "question": "Who had established the Russian empire to its former glory prior to 1921?",
+    "model_answer": "",
+    "correct_answers": [
+      "Bolshevik leaders"
+    ]
+  },
+  "5730b4282461fd1900a9cfc8": {
+    "question": "Who was the leader of Russia in the 1960's?",
+    "model_answer": "",
+    "correct_answers": [
+      "Nikita Khrushchev",
+      "Khrushchev"
+    ]
+  },
+  "5730b6592461fd1900a9cfd2": {
+    "question": "Rudyard Kipling was an influential spokesman for what?",
+    "model_answer": "",
+    "correct_answers": [
+      "The British spirit of imperialism",
+      "imperialism",
+      "Social Darwinism"
+    ]
+  },
+  "5730b7ce069b5314008322c3": {
+    "question": "How did the United States plan to subdue imperialistic tendencies? ",
+    "model_answer": "",
+    "correct_answers": [
+      "the Monroe Doctrine",
+      "through policies",
+      "policies such as the Monroe Doctrine",
+      "Monroe Doctrine"
+    ]
+  },
+  "5730bb522461fd1900a9d015": {
+    "question": "Who does Edward Said say is being attacked by US imperialism?",
+    "model_answer": "",
+    "correct_answers": [
+      "the contemporary Orient",
+      "contemporary Orient",
+      "contemporary Orient, \""
+    ]
+  },
+  "57336755d058e614000b5a3e": {
+    "question": "Which end of the Saxon Garden is the Tom of the Unknown Soldier located at?",
+    "model_answer": "",
+    "correct_answers": [
+      "east end",
+      "east"
+    ]
+  },
+  "573383d0d058e614000b5c36": {
+    "question": "What car is licensed by the FSO Car Factory and built in Egypt?",
+    "model_answer": "",
+    "correct_answers": [
+      "Polonez",
+      "125p"
+    ]
+  },
+  "57339902d058e614000b5e72": {
+    "question": "What profession does Zbigniew Badowski have?",
+    "model_answer": "",
+    "correct_answers": [
+      "architects"
+    ]
+  },
+  "5733a32bd058e614000b5f33": {
+    "question": "When did Polonia Warsaw win the country's championship prior to 2000?",
+    "model_answer": "",
+    "correct_answers": [
+      "1946"
+    ]
+  },
+  "5733a560d058e614000b5f77": {
+    "question": "What did Artur Oppman give to the world?",
+    "model_answer": "",
+    "correct_answers": [
+      "legend",
+      "The best-known legend"
+    ]
+  },
+  "5733d13e4776f419006612c6": {
+    "question": "Why did British operation fail in 1755, 56, 57?",
+    "model_answer": "",
+    "correct_answers": [
+      "combination of poor management, internal divisions, and effective Canadian scouts, French regular forces, and Indian warrior allies",
+      "poor management, internal divisions, and effective Canadian scouts, French regular forces, and Indian warrior allies",
+      "a combination of poor management, internal divisions, and effective Canadian scouts, French regular forces, and Indian warrior allies",
+      "poor management, internal divisions, and effective Canadian scouts",
+      "a combination of poor management, internal divisions, and effective Canadian scouts"
+    ]
+  },
+  "5733d249d058e614000b6332": {
+    "question": "How much resources were French placing in North America?",
+    "model_answer": "",
+    "correct_answers": [
+      "unwilling to risk large convoys to aid the limited forces it had in New France",
+      "limited forces",
+      "significantly increased",
+      "France was unwilling to risk large convoys to aid the limited forces it had in New France"
+    ]
+  },
+  "5733d5704776f4190066130f": {
+    "question": "Where were French North Americans settled?",
+    "model_answer": "",
+    "correct_answers": [
+      "heavily concentrated along the St. Lawrence River valley, with some also in Acadia",
+      "along the St. Lawrence River valley",
+      "St. Lawrence River valley"
+    ]
+  },
+  "5733dab4d058e614000b640b": {
+    "question": "What was normal British defense?",
+    "model_answer": "",
+    "correct_answers": [
+      "mustered local militia companies, generally ill trained and available only for short periods, to deal with native threats, but did not have any standing forces.",
+      "local militia companies",
+      "militia support"
+    ]
+  },
+  "5733db8dd058e614000b642a": {
+    "question": "How did Celeron handle business on trip?",
+    "model_answer": "",
+    "correct_answers": [
+      "British merchants or fur-traders, Céloron informed them of the French claims on the territory and told them to leave.",
+      "told them to leave",
+      "Whenever he encountered British merchants or fur-traders, Céloron informed them of the French claims on the territory and told them to leave.",
+      "buried lead plates",
+      "Whenever he encountered British merchants or fur-traders, Céloron informed them of the French claims on the territory and told them to leave"
+    ]
+  },
+  "5733dd4f4776f419006613ab": {
+    "question": "How were leaders back in Europe feeling about news from Celeron expedition?",
+    "model_answer": "",
+    "correct_answers": [
+      "proposing that action be taken",
+      "each side proposing that action be taken"
+    ]
+  },
+  "5733e5a14776f4190066145c": {
+    "question": "Who was given land by British goovernment for development of Ohio Country?",
+    "model_answer": "",
+    "correct_answers": [
+      "Ohio Company of Virginia",
+      "Ohio Company"
+    ]
+  },
+  "5733e5a14776f4190066145f": {
+    "question": "According to agreement between Iroquois and British, where was a strong house to be built?",
+    "model_answer": "",
+    "correct_answers": [
+      "mouth of the Monongahela River (the site of present-day Pittsburgh, Pennsylvania)",
+      "mouth of the Monongahela River",
+      "Pittsburgh, Pennsylvania",
+      "the mouth of the Monongahela River"
+    ]
+  },
+  "5733e771d058e614000b6547": {
+    "question": "What issues were not addressed in the Treaty of Aix-la-Chapelle?",
+    "model_answer": "",
+    "correct_answers": [
+      "conflicting territorial claims between British and French",
+      "conflicting territorial claims between British and French colonies in North America",
+      "conflicting territorial claims",
+      "The issues of conflicting territorial claims between British and French colonies"
+    ]
+  },
+  "5733f062d058e614000b6636": {
+    "question": "Why did French feel they had right to Ohio claim?",
+    "model_answer": "",
+    "correct_answers": [
+      "France's claim to the region was superior to that of the British",
+      "Sieur de La Salle had explored the Ohio Country nearly a century earlier",
+      "René-Robert Cavelier, Sieur de La Salle had explored the Ohio Country nearly a century earlier.",
+      "René-Robert Cavelier, Sieur de La Salle had explored the Ohio Country",
+      "René-Robert Cavelier, Sieur de La Salle had explored the Ohio Country nearly a century earlier"
+    ]
+  },
+  "5733f1784776f41900661575": {
+    "question": "How many men did Duquesne send to relieve  Saint-Pierre ?",
+    "model_answer": "",
+    "correct_answers": [
+      "Contrecœur led 500 men south from Fort Venango on April 5, 1754",
+      "40",
+      "additional French forces",
+      "40 men"
+    ]
+  },
+  "573407d7d058e614000b6815": {
+    "question": "What British General negotiated at Montreal?",
+    "model_answer": "",
+    "correct_answers": [
+      "General Amherst.",
+      "General Amherst",
+      "Amherst"
+    ]
+  },
+  "573735e8c3c5551400e51e71": {
+    "question": "What concept did philosophers in antiquity use to study simple machines?",
+    "model_answer": "",
+    "correct_answers": [
+      "force",
+      "the concept of force"
+    ]
+  },
+  "573735e8c3c5551400e51e73": {
+    "question": "Who had mathmatical insite?",
+    "model_answer": "",
+    "correct_answers": [
+      "Sir Isaac Newton"
+    ]
+  },
+  "573735e8c3c5551400e51e75": {
+    "question": "Who develped the theory of relativity?",
+    "model_answer": "",
+    "correct_answers": [
+      "Einstein"
+    ]
+  },
+  "57373a9fc3c5551400e51e7b": {
+    "question": "What has partical physics made to describe sub-atomic forces?",
+    "model_answer": "",
+    "correct_answers": [
+      "Standard Model",
+      "a Standard Model"
+    ]
+  },
+  "57373a9fc3c5551400e51e7e": {
+    "question": "What is the weakest main interaction?",
+    "model_answer": "",
+    "correct_answers": [
+      "gravitational"
+    ]
+  },
+  "57373a9fc3c5551400e51e7f": {
+    "question": "What are weak and electromatic forces expressions of?",
+    "model_answer": "",
+    "correct_answers": [
+      "electroweak interaction",
+      "a more fundamental electroweak interaction",
+      "more fundamental electroweak interaction.",
+      "fundamental electroweak interaction."
+    ]
+  },
+  "57373d0cc3c5551400e51e89": {
+    "question": "What did Aristotle refer to forced motion as?",
+    "model_answer": "",
+    "correct_answers": [
+      "unnatural",
+      "natural motion",
+      "continued application of a force"
+    ]
+  },
+  "57373f80c3c5551400e51e8f": {
+    "question": "When were the shortcomings of Aristotle's physics overcome?",
+    "model_answer": "",
+    "correct_answers": [
+      "17th century",
+      "the 17th century"
+    ]
+  },
+  "57373f80c3c5551400e51e90": {
+    "question": "Whose work  corrected Aristotle's physics in the seventeenth century?",
+    "model_answer": "",
+    "correct_answers": [
+      "Galileo Galilei",
+      "Galileo Galilei,"
+    ]
+  },
+  "57373f80c3c5551400e51e91": {
+    "question": "What did objects in forced motion contain according to the late Medieval idea that influence Aristotle?",
+    "model_answer": "",
+    "correct_answers": [
+      "impetus",
+      "innate force of impetus",
+      "gravity",
+      "an innate force of impetus"
+    ]
+  },
+  "57373f80c3c5551400e51e92": {
+    "question": "Who experimented by rolling stones and canonballs down a steep incline?",
+    "model_answer": "",
+    "correct_answers": [
+      "Galileo",
+      "Galileo Galilei"
+    ]
+  },
+  "57373f80c3c5551400e51e93": {
+    "question": "What force acted on bodies to retard their velocity?",
+    "model_answer": "",
+    "correct_answers": [
+      "friction",
+      "gravity",
+      "force"
+    ]
+  },
+  "5737432bc3c5551400e51e9a": {
+    "question": "What insight of Galileo was associated with constant velocity?",
+    "model_answer": "",
+    "correct_answers": [
+      "lack of net force",
+      "constant velocity was associated with a lack of net force"
+    ]
+  },
+  "5737432bc3c5551400e51e9b": {
+    "question": "Who proposed that innate intertial is the natural state of objects?",
+    "model_answer": "",
+    "correct_answers": [
+      "Newton"
+    ]
+  },
+  "5737432bc3c5551400e51e9d": {
+    "question": "What are the laws of physics of Galileo, in reference to objest in motion and rest?",
+    "model_answer": "",
+    "correct_answers": [
+      "the same",
+      "a Galilean transformation",
+      "Galilean transformation",
+      "the laws of physics are the same in every inertial frame of reference",
+      "the same in every inertial frame of reference"
+    ]
+  },
+  "5737477bc3c5551400e51ea6": {
+    "question": "What applies to equally to constant velocity motion as it does to rest.",
+    "model_answer": "",
+    "correct_answers": [
+      "Inertia"
+    ]
+  },
+  "573749741c4567190057445d": {
+    "question": "What concept explains why objects continue in constant motion?",
+    "model_answer": "",
+    "correct_answers": [
+      "inertia"
+    ]
+  },
+  "573749741c4567190057445e": {
+    "question": "What makes day length constant on Earth?",
+    "model_answer": "",
+    "correct_answers": [
+      "rotational inertia of planet",
+      "rotational inertia of planet Earth",
+      "rotational inertia",
+      "The rotational inertia of planet Earth"
+    ]
+  },
+  "5737534ec3c5551400e51eab": {
+    "question": "When forces are from the presence of differnet objects, what law gives symmetry?",
+    "model_answer": "",
+    "correct_answers": [
+      "Newton's Third",
+      "Newton's Third Law"
+    ]
+  },
+  "5737534ec3c5551400e51eae": {
+    "question": "What is the equality of forces between two objects exerting force on each other??",
+    "model_answer": "",
+    "correct_answers": [
+      "magnitude",
+      "action-reaction",
+      "the action-reaction law",
+      "equal in magnitude"
+    ]
+  },
+  "573766251c45671900574472": {
+    "question": "What is used to quantify the intuitive undestanding of forces?",
+    "model_answer": "",
+    "correct_answers": [
+      "standard measurement scale",
+      "precise operational definitions"
+    ]
+  },
+  "57376828c3c5551400e51ebd": {
+    "question": "How do you determine the acceleration of a rope when two people are pulling it?",
+    "model_answer": "",
+    "correct_answers": [
+      "Associating forces with vectors",
+      "adding the two force magnitudes or subtracting one from the other",
+      "knowing the direction of the forces",
+      "it is impossible"
+    ]
+  },
+  "57376a1bc3c5551400e51ec7": {
+    "question": "What geometric shape is used in equations to determine net force?",
+    "model_answer": "",
+    "correct_answers": [
+      "parallelogram"
+    ]
+  },
+  "57376c50c3c5551400e51ed0": {
+    "question": "What are the independant components of a vector sum that has been determined by scalar addition of individual vectors?",
+    "model_answer": "",
+    "correct_answers": [
+      "orthogonal",
+      "uniquely determined",
+      "orthogonal components"
+    ]
+  },
+  "57376c50c3c5551400e51ed1": {
+    "question": "What can orthogonal forces be when there are three components with two at right angles to each other?",
+    "model_answer": "",
+    "correct_answers": [
+      "three-dimensional"
+    ]
+  },
+  "57377083c3c5551400e51edf": {
+    "question": "What can scales and spring balances measure between two forces by using static equilibrium?",
+    "model_answer": "",
+    "correct_answers": [
+      "forces",
+      "static equilibrium",
+      "force of gravity"
+    ]
+  },
+  "57377083c3c5551400e51ee1": {
+    "question": "What equals the spring reaction force on an object suspended on a spring reaction scale? ",
+    "model_answer": "",
+    "correct_answers": [
+      "gravity",
+      "object's weight",
+      "spring reaction force",
+      "the object's weight"
+    ]
+  },
+  "573776eec3c5551400e51eec": {
+    "question": "Where will a canonball dropped from the crow's nest of a ship land according to Aristotle?",
+    "model_answer": "",
+    "correct_answers": [
+      "behind the foot of the mast",
+      "straight down",
+      "behind the foot of the mast of a moving ship"
+    ]
+  },
+  "573776eec3c5551400e51eed": {
+    "question": "Where does a canonball dropped from the crow's nest of a ship actually land?",
+    "model_answer": "",
+    "correct_answers": [
+      "foot of the mast",
+      "the foot of the mast",
+      "at the foot of the mast"
+    ]
+  },
+  "57377aac1c4567190057447a": {
+    "question": "What equation desribed the physics of force before the current Schrodinger equation?",
+    "model_answer": "",
+    "correct_answers": [
+      "Newtonian",
+      "Newtonian equations",
+      "Newtonian equations."
+    ]
+  },
+  "57377aac1c4567190057447b": {
+    "question": "How are the forces derived from fields treated similarly to?",
+    "model_answer": "",
+    "correct_answers": [
+      "classical position variables"
+    ]
+  },
+  "57377aac1c4567190057447c": {
+    "question": "What type of measurements result under Schrodinger equations when using operators instead of Newtonian variables?",
+    "model_answer": "",
+    "correct_answers": [
+      "quantized",
+      "operators"
+    ]
+  },
+  "57377aac1c4567190057447d": {
+    "question": "What notion keeps it's meaning through both Netonian and Schrodinger physics equations?",
+    "model_answer": "",
+    "correct_answers": [
+      "force",
+      "The notion \"force\""
+    ]
+  },
+  "57377c98c3c5551400e51efb": {
+    "question": "What is the intrisic angular variable called when particles act upon one another?",
+    "model_answer": "",
+    "correct_answers": [
+      "spin",
+      "the \"spin"
+    ]
+  },
+  "57377ec7c3c5551400e51f07": {
+    "question": "What is more fundamental than force in quanton field theory?",
+    "model_answer": "",
+    "correct_answers": [
+      "conservation of momentum",
+      "the currently known fundamental forces"
+    ]
+  },
+  "5737804dc3c5551400e51f0f": {
+    "question": "How many interactions are all of the universal forces based on?",
+    "model_answer": "",
+    "correct_answers": [
+      "four"
+    ]
+  },
+  "5737804dc3c5551400e51f10": {
+    "question": "What nuclear forces only act at short distances?",
+    "model_answer": "",
+    "correct_answers": [
+      "strong and weak",
+      "strong and weak forces"
+    ]
+  },
+  "5737821cc3c5551400e51f1c": {
+    "question": "What type of physics model did Einstein fail to make?",
+    "model_answer": "",
+    "correct_answers": [
+      "self-consistent unification",
+      "self-consistent unification models",
+      "self-consistent unification models that would combine all four fundamental interactions"
+    ]
+  },
+  "573784fa1c45671900574484": {
+    "question": "Who came up with the concept that falling objects fell at the same speed regardless of weight?",
+    "model_answer": "",
+    "correct_answers": [
+      "Galileo"
+    ]
+  },
+  "573784fa1c45671900574485": {
+    "question": "How fast do objects fall on Earth?",
+    "model_answer": "",
+    "correct_answers": [
+      "about 9.81 meters per second squared",
+      "about 9.81 meters per second",
+      "9.81 meters per second"
+    ]
+  },
+  "573786b51c4567190057448d": {
+    "question": "How might gravity effects be observed differently according to Newton?",
+    "model_answer": "",
+    "correct_answers": [
+      "at larger distances.",
+      "at larger distances"
+    ]
+  },
+  "57378862c3c5551400e51f22": {
+    "question": "Who made the first to measure value of the Newton Universal Gravitation Constant?",
+    "model_answer": "",
+    "correct_answers": [
+      "Henry Cavendish"
+    ]
+  },
+  "57378862c3c5551400e51f23": {
+    "question": "When was the first measurement of the value of the Newton Universal Gravitation Constant?",
+    "model_answer": "",
+    "correct_answers": [
+      "1798"
+    ]
+  },
+  "57378862c3c5551400e51f24": {
+    "question": "Who figured out that his law of gravity had to be universal?",
+    "model_answer": "",
+    "correct_answers": [
+      "Newton"
+    ]
+  },
+  "5737898f1c45671900574495": {
+    "question": "What planet seemed to buck Newton's gravitational laws?",
+    "model_answer": "",
+    "correct_answers": [
+      "Mercury"
+    ]
+  },
+  "5737898f1c45671900574497": {
+    "question": "What theory accounted for the Mercury problem?",
+    "model_answer": "",
+    "correct_answers": [
+      "theory of general relativity",
+      "theory of general relativity (GR)",
+      "general relativity"
+    ]
+  },
+  "57378b141c456719005744a2": {
+    "question": "In what sense must you be observing the curvature of space-time?",
+    "model_answer": "",
+    "correct_answers": [
+      "global",
+      "a global sense",
+      "in space",
+      "the perspective of the object"
+    ]
+  },
+  "5737958b1c456719005744c3": {
+    "question": "What is often misunderstood as the cause of matter rigidity?",
+    "model_answer": "",
+    "correct_answers": [
+      "repulsion of like charges",
+      "repulsion of like charges under the influence of the electromagnetic force",
+      "the repulsion of like charges under the influence of the electromagnetic force"
+    ]
+  },
+  "5737958b1c456719005744c5": {
+    "question": "What is needed to pack electrons densely together?",
+    "model_answer": "",
+    "correct_answers": [
+      "energy"
+    ]
+  },
+  "5737958b1c456719005744c6": {
+    "question": "How is the Pauli exclusion priciple manifested in the macro world?",
+    "model_answer": "",
+    "correct_answers": [
+      "as a structural force",
+      "a structural force",
+      "macroscopically as a structural force"
+    ]
+  },
+  "573796edc3c5551400e51f33": {
+    "question": "What does stong force act upon?",
+    "model_answer": "",
+    "correct_answers": [
+      "elementary particles"
+    ]
+  },
+  "573796edc3c5551400e51f35": {
+    "question": "What is the force between nucleons?",
+    "model_answer": "",
+    "correct_answers": [
+      "nuclear",
+      "nuclear force.",
+      "nuclear force"
+    ]
+  },
+  "573796edc3c5551400e51f36": {
+    "question": "How are nuclear forces transmitted?",
+    "model_answer": "",
+    "correct_answers": [
+      "as gluons"
+    ]
+  },
+  "573796edc3c5551400e51f37": {
+    "question": "What is the term for the lack of obsevable free quarks?",
+    "model_answer": "",
+    "correct_answers": [
+      "color confinement"
+    ]
+  },
+  "57379829c3c5551400e51f41": {
+    "question": "At what temperature do weak and electromagnetic forces appear the same?",
+    "model_answer": "",
+    "correct_answers": [
+      "approximately 1015 kelvins",
+      "in excess of approximately 1015 kelvins",
+      "1015 kelvins"
+    ]
+  },
+  "57379a4b1c456719005744ce": {
+    "question": "What occurs when electron clouds overlap from different atoms?",
+    "model_answer": "",
+    "correct_answers": [
+      "Pauli repulsion"
+    ]
+  },
+  "57379a4b1c456719005744d0": {
+    "question": "What is the force that causes rigid strength in structures?",
+    "model_answer": "",
+    "correct_answers": [
+      "normal",
+      "normal force"
+    ]
+  },
+  "57379ed81c456719005744d6": {
+    "question": "What do you use to let idea strings switch direction?",
+    "model_answer": "",
+    "correct_answers": [
+      "ideal pulleys"
+    ]
+  },
+  "57379ed81c456719005744d7": {
+    "question": "In what way do idea strings transmit tesion forces?",
+    "model_answer": "",
+    "correct_answers": [
+      "action-reaction pairs",
+      "instantaneously in action-reaction pairs",
+      "in action-reaction pairs"
+    ]
+  },
+  "57379ed81c456719005744d9": {
+    "question": "What can increase the tension force on a load?",
+    "model_answer": "",
+    "correct_answers": [
+      "movable pulleys",
+      "connecting the same string multiple times to the same object through the use of a set-up that uses movable pulleys,",
+      "every string",
+      "connecting the same string multiple times to the same object through the use of a set-up that uses movable pulleys"
+    ]
+  },
+  "5737a0acc3c5551400e51f47": {
+    "question": "What did Newton's mechanics affect?",
+    "model_answer": "",
+    "correct_answers": [
+      "idealized point particles",
+      "idealized point particles rather than three-dimensional objects"
+    ]
+  },
+  "5737a0acc3c5551400e51f48": {
+    "question": "What didn't Newton's mechanics affext?",
+    "model_answer": "",
+    "correct_answers": [
+      "three-dimensional objects"
+    ]
+  },
+  "5737a0acc3c5551400e51f4b": {
+    "question": "What does matter actually have that Newtonian mechanics doesn't address?",
+    "model_answer": "",
+    "correct_answers": [
+      "extended structure",
+      "extended structure and forces that act on one part of an object might affect other parts of an object"
+    ]
+  },
+  "5737a25ac3c5551400e51f51": {
+    "question": "What causes strain in structures?",
+    "model_answer": "",
+    "correct_answers": [
+      "stress tensor",
+      "deformations",
+      "The stress tensor"
+    ]
+  },
+  "5737a25ac3c5551400e51f53": {
+    "question": "What are associated with normal forces?",
+    "model_answer": "",
+    "correct_answers": [
+      "pressure terms",
+      "matrix diagonals of the tensor)"
+    ]
+  },
+  "5737a25ac3c5551400e51f54": {
+    "question": "What includes pressure terms when calculating area in volume?",
+    "model_answer": "",
+    "correct_answers": [
+      "formalism",
+      "the relevant cross-sectional area for the volume for which the stress-tensor is being calculated",
+      "This formalism"
+    ]
+  },
+  "5737a4511c456719005744df": {
+    "question": "What is the force equivalent of torque compared to angular momentum?",
+    "model_answer": "",
+    "correct_answers": [
+      "rotational equivalent for position",
+      "rotation",
+      "rotational inertia",
+      "angle is the rotational equivalent for position"
+    ]
+  },
+  "5737a5931c456719005744e7": {
+    "question": "Where does centripetal force go?",
+    "model_answer": "",
+    "correct_answers": [
+      "toward the center of the curving path",
+      "center of the curving path.",
+      "the center of the curving path",
+      "directed toward the center of the curving path"
+    ]
+  },
+  "5737a7351c456719005744f1": {
+    "question": "What is the only form potential energy can change into?",
+    "model_answer": "",
+    "correct_answers": [
+      "kinetic"
+    ]
+  },
+  "5737a7351c456719005744f2": {
+    "question": "What is the only form kinetic energy can change into?",
+    "model_answer": "",
+    "correct_answers": [
+      "potential"
+    ]
+  },
+  "5737a7351c456719005744f4": {
+    "question": "What is the force between two locations related to?",
+    "model_answer": "",
+    "correct_answers": [
+      "difference in potential energy",
+      "the difference in potential energy",
+      "the difference in potential energy between two different locations in space"
+    ]
+  },
+  "5737a7351c456719005744f5": {
+    "question": "What is the force called rgarding a potential field between two locations?",
+    "model_answer": "",
+    "correct_answers": [
+      "artifact",
+      "artifact of the potential field",
+      "an artifact"
+    ]
+  },
+  "5737a84dc3c5551400e51f5b": {
+    "question": "What do electrostatic gradiient potentials create?",
+    "model_answer": "",
+    "correct_answers": [
+      "friction"
+    ]
+  },
+  "5737a9afc3c5551400e51f62": {
+    "question": "What changes macroscopic closed system energies?",
+    "model_answer": "",
+    "correct_answers": [
+      "nonconservative forces",
+      "internal energies of the system"
+    ]
+  },
+  "5737a9afc3c5551400e51f63": {
+    "question": "What is the exchange of heat associated with?",
+    "model_answer": "",
+    "correct_answers": [
+      "nonconservative forces"
+    ]
+  },
+  "5737a9afc3c5551400e51f64": {
+    "question": "What is the law of thermodynamics associated with closed system heat exchange?",
+    "model_answer": "",
+    "correct_answers": [
+      "Second",
+      "Second law of thermodynamics",
+      "Second law"
+    ]
+  },
+  "5737a9afc3c5551400e51f65": {
+    "question": "What makes energy changes in a closed system?",
+    "model_answer": "",
+    "correct_answers": [
+      "nonconservative forces"
+    ]
+  },
+  "5737aafd1c456719005744fb": {
+    "question": "What is the metric term less used than the Newton?",
+    "model_answer": "",
+    "correct_answers": [
+      "kilogram-force",
+      "pound-force",
+      "kilogram-force (kgf)",
+      "the kilogram-force ("
+    ]
+  },
+  "5737aafd1c456719005744ff": {
+    "question": "What is the seldom used force unit equal to one thousand newtons?",
+    "model_answer": "",
+    "correct_answers": [
+      "sthène"
+    ]
+  }
+}
